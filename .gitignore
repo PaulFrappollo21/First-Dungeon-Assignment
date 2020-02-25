@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+DungeonLevel/Saved/AutoScreenshot.png
+DungeonLevel/Saved/Config/CrashReportClient/UE4CC-Windows-80297B364BAB43D55C2B558D7031D303/CrashReportClient.ini
