@@ -1,0 +1,1439 @@
+﻿Log file open, 02/24/20 21:09:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: DungeonProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.185497
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU:        Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Engine.ini]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Engine.ini]
+[2020.02.25-02.09.06:094][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Engine.ini]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Engine.ini]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.25-02.09.06:094][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Engine.ini]
+[2020.02.25-02.09.06:094][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Engine.ini]
+[2020.02.25-02.09.06:106][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.25-02.09.06:106][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.25-02.09.06:107][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.25-02.09.06:108][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.25-02.09.06:108][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.25-02.09.06:130][  0]LogHAL: Display: Platform has ~ 16 GB [17059876864 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.25-02.09.06:130][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.25-02.09.06:130][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.25-02.09.06:130][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.25-02.09.06:131][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.25-02.09.06:132][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.25-02.09.06:132][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.25-02.09.06:132][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Engine.ini]
+[2020.02.25-02.09.06:132][  0]LogInit: Computer: KURISU
+[2020.02.25-02.09.06:132][  0]LogInit: User: Chris
+[2020.02.25-02.09.06:132][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.25-02.09.06:132][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.25-02.09.06:132][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.02.25-02.09.06:132][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.25-02.09.06:132][  0]LogMemory: Process Physical Memory: 96.46 MB used, 96.46 MB peak
+[2020.02.25-02.09.06:132][  0]LogMemory: Process Virtual Memory: 83.85 MB used, 83.85 MB peak
+[2020.02.25-02.09.06:132][  0]LogMemory: Physical Memory: 4095.84 MB used,  12173.73 MB free, 16269.57 MB total
+[2020.02.25-02.09.06:132][  0]LogMemory: Virtual Memory: 4624.96 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2020.02.25-02.09.06:164][  0]LogInit: Using OS detected language (en-US).
+[2020.02.25-02.09.06:164][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.25-02.09.06:166][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.25-02.09.06:319][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.25-02.09.06:375][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.25-02.09.06:375][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.25-02.09.06:695][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.25-02.09.06:695][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.25-02.09.06:766][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.02.25-02.09.06:766][  0]LogD3D11RHI:       8079/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.02.25-02.09.06:769][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.25-02.09.06:769][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.25-02.09.06:769][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.25-02.09.06:774][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.25-02.09.06:774][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.25-02.09.06:774][  0]LogWindows: EnumDisplayDevices:
+[2020.02.25-02.09.06:774][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.02.25-02.09.06:774][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2020.02.25-02.09.06:774][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.02.25-02.09.06:775][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.02.25-02.09.06:775][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.25-02.09.06:775][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.02.25-02.09.06:775][  0]LogD3D11RHI:   Driver Version: 442.19 (internal:26.21.14.4219, unified:442.19)
+[2020.02.25-02.09.06:775][  0]LogD3D11RHI:      Driver Date: 1-29-2020
+[2020.02.25-02.09.06:775][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.02.25-02.09.06:831][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.25-02.09.06:835][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.25-02.09.06:835][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.25-02.09.06:835][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.25-02.09.06:844][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.25-02.09.06:847][  0]LogD3D11RHI: HDR output is supported on display 1 (NvId: 0x80061082).
+[2020.02.25-02.09.07:143][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.25-02.09.07:160][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.25-02.09.07:177][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.25-02.09.07:194][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.25-02.09.07:211][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.25-02.09.07:228][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.25-02.09.07:244][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.25-02.09.07:261][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.25-02.09.07:270][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.25-02.09.07:375][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.25-02.09.07:375][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.25-02.09.07:375][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.25-02.09.07:375][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.25-02.09.07:375][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.25-02.09.07:375][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.25-02.09.07:375][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.25-02.09.07:375][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.25-02.09.07:375][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.25-02.09.07:375][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.25-02.09.07:375][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.25-02.09.07:375][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.25-02.09.07:375][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.25-02.09.07:375][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.25-02.09.07:375][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.25-02.09.07:375][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.25-02.09.07:375][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.25-02.09.07:375][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.25-02.09.07:379][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.25-02.09.07:436][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.25-02.09.07:436][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.25-02.09.07:467][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.25-02.09.07:467][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.25-02.09.07:483][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.25-02.09.07:498][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.25-02.09.07:514][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.25-02.09.07:532][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.25-02.09.07:590][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.25-02.09.07:590][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.25-02.09.07:590][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.25-02.09.07:602][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.25-02.09.07:687][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Intermediate/Shaders/WorkingDirectory/5708/).
+[2020.02.25-02.09.07:688][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Chris/AppData/Local/Temp/UnrealShaderWorkingDir/F59476CA45ABE9CA31ECB9B160380572/'.
+[2020.02.25-02.09.07:691][  0]LogXGEController: Cleaning working directory: C:/Users/Chris/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.25-02.09.07:691][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.25-02.09.07:691][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.25-02.09.07:691][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.25-02.09.08:251][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.25-02.09.08:292][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Chris/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.25-02.09.08:292][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Chris/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.25-02.09.08:292][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.25-02.09.08:292][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.25-02.09.08:292][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.25-02.09.08:292][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.25-02.09.08:303][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.25-02.09.08:303][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.25-02.09.08:303][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.25-02.09.08:316][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.25-02.09.08:316][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.25-02.09.08:316][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.25-02.09.08:338][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.25-02.09.08:339][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.25-02.09.08:340][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.25-02.09.08:446][  0]LogAssetRegistry: FAssetRegistry took 0.0366 seconds to start up
+[2020.02.25-02.09.08:895][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.25-02.09.09:051][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.25-02.09.09:051][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.25-02.09.09:051][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.25-02.09.09:051][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.25-02.09.09:051][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.25-02.09.09:068][  0]LogNetVersion: DungeonProject 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 462601710)
+[2020.02.25-02.09.09:525][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.046478 seconds
+[2020.02.25-02.09.09:531][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.02.25-02.09.09:531][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.02.25-02.09.09:531][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.25-02.09.10:603][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.25-02.09.10:617][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.25-02.09.10:750][  0]SourceControl: Source control is disabled
+[2020.02.25-02.09.10:750][  0]SourceControl: Source control is disabled
+[2020.02.25-02.09.10:752][  0]SourceControl: Source control is disabled
+[2020.02.25-02.09.10:754][  0]SourceControl: Source control is disabled
+[2020.02.25-02.09.10:882][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.25-02.09.11:012][  0]LogOcInput: OculusInput pre-init called
+[2020.02.25-02.09.11:904][  0]LogEngine: Initializing Engine...
+[2020.02.25-02.09.11:905][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.25-02.09.11:907][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.25-02.09.12:123][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.25-02.09.12:139][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.25-02.09.12:175][  0]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-02.09.12:194][  0]LogInit: FAudioDevice initialized.
+[2020.02.25-02.09.12:195][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.25-02.09.12:355][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/Chris/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.25-02.09.12:365][  0]LogInit: Texture streaming: Enabled
+[2020.02.25-02.09.12:393][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.25-02.09.12:424][  0]LogInit: Transaction tracking system initialized
+[2020.02.25-02.09.12:465][  0]BlueprintLog: New page: Editor Load
+[2020.02.25-02.09.12:567][  0]LocalizationService: Localization service is disabled
+[2020.02.25-02.09.12:678][  0]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/SideScrollerOverview'
+[2020.02.25-02.09.12:678][  0]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/SideScrollerOverview'
+[2020.02.25-02.09.12:678][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/SideScrollerBP/SideScrollerOverview.SideScrollerOverview_C'
+[2020.02.25-02.09.12:943][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/' took 0.01s
+[2020.02.25-02.09.12:943][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.25-02.09.12:943][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.25-02.09.13:160][  0]SourceControl: Source control is disabled
+[2020.02.25-02.09.13:160][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/Levels/FirstRoomPaul.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.25-02.09.13:161][  0]LightingResults: New page: Lighting Build
+[2020.02.25-02.09.13:164][  0]MapCheck: New page: Map Check
+[2020.02.25-02.09.13:164][  0]LightingResults: New page: Lighting Build
+[2020.02.25-02.09.13:185][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.02.25-02.09.13:285][  0]LogBlueprint: Warning: [Compiler MyCharacter] Cast To MyCharacter  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.02.25-02.09.13:294][  0]LogBlueprint: Warning: [Compiler MyCharacter] [0010.19] Compile of MyCharacter successful, but with 1 Warning(s) [in 14 ms] (/Game/Blueprints/MyCharacter.MyCharacter)
+[2020.02.25-02.09.13:418][  0]LogAIModule: Creating AISystem for world FirstRoomPaul
+[2020.02.25-02.09.13:429][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.25-02.09.13:452][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.02.25-02.09.13:452][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.25-02.09.13:453][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.405ms to complete.
+[2020.02.25-02.09.13:453][  0]LogFileHelpers: Loading map 'FirstRoomPaul' took 0.292
+[2020.02.25-02.09.13:574][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.09.13:581][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.09.13:589][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.09.13:596][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.09.13:604][  0]LogCollectionManager: Loaded 0 collections in 0.001928 seconds
+[2020.02.25-02.09.13:644][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/Collections/' took 0.01s
+[2020.02.25-02.09.13:644][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/Developers/Chris/Collections/' took 0.01s
+[2020.02.25-02.09.13:644][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/Collections/' took 0.01s
+[2020.02.25-02.09.13:644][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.02.25-02.09.13:655][  0]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 2732 classes and 659 folders.
+[2020.02.25-02.09.13:666][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.25-02.09.13:670][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:673][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:674][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:676][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:677][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:682][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:684][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:685][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:687][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:688][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:690][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:691][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:693][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:695][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:696][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:698][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:700][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:701][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:704][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:706][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:708][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:709][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-02.09.13:784][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.25-02.09.13:790][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.02.25-02.09.13:857][  0]LogSlate: Took 0.000313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.25-02.09.13:859][  0]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.25-02.09.13:864][  0]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.25-02.09.13:933][  0]LogRenderer: Reallocating scene render targets to support 1140x672 Format 10 NumSamples 1 (Frame:1).
+[2020.02.25-02.09.13:981][  0]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.25-02.09.14:051][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.25-02.09.14:051][  0]LogLoad: (Engine Initialization) Total time: 10.94 seconds
+[2020.02.25-02.09.14:051][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.25-02.09.14:115][  0]LogAssetRegistry: Asset discovery search completed in 5.6913 seconds
+[2020.02.25-02.09.14:117][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.02.25-02.09.14:117][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000046 seconds (updated 0 objects)
+[2020.02.25-02.09.14:124][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.25-02.09.14:162][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/' took 0.08s
+[2020.02.25-02.10.18:534][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.10.22:608][193]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.25-02.10.22:678][193]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-02.10.22:682][193]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/FinalRoomAustin.FinalRoomAustin
+[2020.02.25-02.10.22:702][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.02.25-02.10.22:703][193]Cmd: MAP LOAD FILE="../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/Levels/FinalRoomAustin.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.25-02.10.22:703][193]LightingResults: New page: Lighting Build
+[2020.02.25-02.10.22:704][193]LoadErrors: New page: Loading map: FinalRoomAustin.umap
+[2020.02.25-02.10.22:705][193]MapCheck: New page: Map Check
+[2020.02.25-02.10.22:705][193]LightingResults: New page: Lighting Build
+[2020.02.25-02.10.22:726][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.02.25-02.10.22:786][193]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.25-02.10.22:807][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.02.25-02.10.22:827][193]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.25-02.10.22:828][193]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.381ms to complete.
+[2020.02.25-02.10.22:828][193]LogFileHelpers: Loading map 'FinalRoomAustin' took 0.126
+[2020.02.25-02.10.27:487][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.10.27:587][754]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-02.10.27:598][754]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.10.27:599][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-02.10.27:599][754]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 4:10:27 PM)
+[2020.02.25-02.10.27:611][754]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-02.10.27:614][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002706s)
+[2020.02.25-02.10.27:615][754]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-02.10.27:615][754]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2020.02.25-02.10.27:615][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.004219s)
+[2020.02.25-02.10.27:634][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.02.25-02.10.27:667][754]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-02.10.27:679][754]LogInit: FAudioDevice initialized.
+[2020.02.25-02.10.27:721][754]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-02.10.27:722][754]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 0) at 2020.02.24-21.10.27
+[2020.02.25-02.10.27:723][754]LogWorld: Bringing up level for play took: 0.000658
+[2020.02.25-02.10.27:744][754]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.02.25-02.10.27:745][754]Set new viewmode: Unlit
+[2020.02.25-02.10.27:746][754]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin -0.81
+[2020.02.25-02.10.27:746][754]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.10.37:030][849]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.10.37:030][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.10.37:059][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-02.10.37:059][849]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.10.37:090][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.10.37:093][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.02.25-02.10.37:130][851]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.02.25-02.10.39:489][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.25-02.10.41:070][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.10.43:147][561]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-02.10.43:158][561]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.10.43:159][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-02.10.43:159][561]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 4:10:43 PM)
+[2020.02.25-02.10.43:159][561]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-02.10.43:162][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002816s)
+[2020.02.25-02.10.43:162][561]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-02.10.43:162][561]LogPlayLevel: PIE: World Init took: (0.000534s)
+[2020.02.25-02.10.43:162][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.003474s)
+[2020.02.25-02.10.43:180][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.02.25-02.10.43:213][561]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-02.10.43:225][561]LogInit: FAudioDevice initialized.
+[2020.02.25-02.10.43:257][561]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-02.10.43:258][561]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 0) at 2020.02.24-21.10.43
+[2020.02.25-02.10.43:258][561]LogWorld: Bringing up level for play took: 0.000663
+[2020.02.25-02.10.43:271][561]Set new viewmode: Unlit
+[2020.02.25-02.10.43:271][561]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin 0.715
+[2020.02.25-02.10.43:272][561]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.10.50:606][434]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.10.50:607][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.10.50:633][434]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-02.10.50:633][434]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.10.50:655][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.10.50:658][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.02.25-02.10.50:711][438]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.02.25-02.10.53:254][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.25-02.10.55:073][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.10.55:911][ 53]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.25-02.10.58:683][367]LogAssetEditorManager: Opening Asset editor for StaticMesh /Engine/BasicShapes/Cube.Cube
+[2020.02.25-02.11.01:794][602]LogSlate: Window 'Cube' being destroyed
+[2020.02.25-02.11.01:798][602]LogSlate: Window 'Cube' being destroyed
+[2020.02.25-02.11.06:679][171]Cmd: DELETE
+[2020.02.25-02.11.06:679][171]Cmd: ACTOR DELETE
+[2020.02.25-02.11.06:681][171]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-02.11.06:702][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.02.25-02.11.06:702][171]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2020.02.25-02.11.07:902][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.02.25-02.11.08:689][404]Cmd: DELETE
+[2020.02.25-02.11.08:689][404]Cmd: ACTOR DELETE
+[2020.02.25-02.11.08:691][404]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-02.11.08:710][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.25-02.11.08:710][404]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2020.02.25-02.11.09:753][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.11.13:535][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.11.26:344][505]LogSlate: Window 'Select Path' being destroyed
+[2020.02.25-02.11.26:391][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.02.25-02.11.26:404][505]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MagneticCubeBP.MagneticCubeBP
+[2020.02.25-02.11.26:684][505]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2020.02.25-02.11.41:273][835]BlueprintLog: New page: Compile MagneticCubeBP
+[2020.02.25-02.11.41:444][835]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.02.25-02.11.42:297][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagneticCubeBP" FILE="../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/MagneticCubeBP.uasset" SILENT=true
+[2020.02.25-02.11.42:322][914]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/MagneticCubeBP0E5A8D5342F173E837ECE38F1585D5B9.tmp' to '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/MagneticCubeBP.uasset'
+[2020.02.25-02.11.43:226][  7]LogSlate: Window 'MagneticCubeBP' being destroyed
+[2020.02.25-02.11.43:230][  7]LogSlate: Window 'MagneticCubeBP' being destroyed
+[2020.02.25-02.11.45:934][314]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-02.11.51:668][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.11.51:792][970]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-02.11.51:808][970]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.11.51:808][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-02.11.51:809][970]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 4:11:51 PM)
+[2020.02.25-02.11.51:809][970]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-02.11.51:811][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002681s)
+[2020.02.25-02.11.51:812][970]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-02.11.51:812][970]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2020.02.25-02.11.51:812][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.003629s)
+[2020.02.25-02.11.51:840][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.02.25-02.11.51:874][970]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-02.11.51:886][970]LogInit: FAudioDevice initialized.
+[2020.02.25-02.11.51:914][970]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-02.11.51:915][970]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 0) at 2020.02.24-21.11.51
+[2020.02.25-02.11.51:915][970]LogWorld: Bringing up level for play took: 0.000662
+[2020.02.25-02.11.51:928][970]Set new viewmode: Unlit
+[2020.02.25-02.11.51:928][970]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin -0.627
+[2020.02.25-02.11.51:929][970]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.12.10:201][159]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.12.10:201][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.12.10:227][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-02.12.10:227][159]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.12.10:256][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.12.10:260][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.02.25-02.12.10:308][162]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.25-02.12.12:414][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.12.12:503][423]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MagneticCubeBP.MagneticCubeBP
+[2020.02.25-02.12.12:812][423]LogSlate: Took 0.000318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.25-02.12.21:833][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagneticCubeBP" FILE="../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/MagneticCubeBP.uasset" SILENT=true
+[2020.02.25-02.12.21:912][462]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/MagneticCubeBPBD865DF34365F6B03E0D5EB6BC6CA2A2.tmp' to '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/MagneticCubeBP.uasset'
+[2020.02.25-02.12.22:205][494]BlueprintLog: New page: Compile MagneticCubeBP
+[2020.02.25-02.12.22:359][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.02.25-02.12.23:185][585]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-02.12.23:200][585]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.12.23:200][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-02.12.23:200][585]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 4:12:23 PM)
+[2020.02.25-02.12.23:200][585]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-02.12.23:203][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002683s)
+[2020.02.25-02.12.23:203][585]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-02.12.23:204][585]LogPlayLevel: PIE: World Init took: (0.000570s)
+[2020.02.25-02.12.23:204][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.003371s)
+[2020.02.25-02.12.23:232][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.02.25-02.12.23:265][585]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-02.12.23:276][585]LogInit: FAudioDevice initialized.
+[2020.02.25-02.12.23:305][585]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-02.12.23:306][585]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 0) at 2020.02.24-21.12.23
+[2020.02.25-02.12.23:306][585]LogWorld: Bringing up level for play took: 0.000662
+[2020.02.25-02.12.23:320][585]Set new viewmode: Unlit
+[2020.02.25-02.12.23:320][585]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin 0.764
+[2020.02.25-02.12.23:320][585]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.12.50:161][789]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.12.50:161][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.12.50:195][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-02.12.50:195][789]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.12.50:227][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.12.50:230][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.02.25-02.12.50:269][791]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.02.25-02.12.53:228][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-02.12.57:045][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagneticCubeBP" FILE="../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/MagneticCubeBP.uasset" SILENT=true
+[2020.02.25-02.12.57:112][491]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/MagneticCubeBP527F09284911C084F44EECB3991DF250.tmp' to '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/MagneticCubeBP.uasset'
+[2020.02.25-02.12.57:528][537]BlueprintLog: New page: Compile MagneticCubeBP
+[2020.02.25-02.12.57:685][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.02.25-02.12.58:502][626]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-02.12.58:518][626]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.12.58:518][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-02.12.58:518][626]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 4:12:58 PM)
+[2020.02.25-02.12.58:518][626]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-02.12.58:521][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002662s)
+[2020.02.25-02.12.58:521][626]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-02.12.58:522][626]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2020.02.25-02.12.58:522][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.003514s)
+[2020.02.25-02.12.58:548][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.02.25-02.12.58:581][626]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-02.12.58:592][626]LogInit: FAudioDevice initialized.
+[2020.02.25-02.12.58:617][626]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-02.12.58:618][626]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 0) at 2020.02.24-21.12.58
+[2020.02.25-02.12.58:618][626]LogWorld: Bringing up level for play took: 0.000658
+[2020.02.25-02.12.58:632][626]Set new viewmode: Unlit
+[2020.02.25-02.12.58:632][626]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin 0.075
+[2020.02.25-02.12.58:632][626]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.13.00:366][803]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-02.13.36:308][ 76]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.13.36:309][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.13.36:336][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-02.13.36:336][ 76]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.13.36:376][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.13.36:380][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.02.25-02.13.36:418][ 78]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.02.25-02.14.10:303][417]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-02.14.13:439][780]LogEditorViewport: Clicking on Actor (LMB): MagneticCubeBP_C (MagneticCubeBP)
+[2020.02.25-02.14.46:610][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.14.46:753][771]LogActorFactory: Actor Factory created Cube
+[2020.02.25-02.14.47:538][850]LogActorFactory: Actor Factory created Cube
+[2020.02.25-02.14.48:918][  6]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-02.14.50:871][223]Cmd: TRANSACTION UNDO
+[2020.02.25-02.14.50:871][223]LogEditorTransaction: Undo Move Actors
+[2020.02.25-02.14.52:113][366]Cmd: DELETE
+[2020.02.25-02.14.52:113][366]Cmd: ACTOR DELETE
+[2020.02.25-02.14.52:114][366]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-02.14.52:141][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.02.25-02.14.52:141][366]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.02.25-02.14.54:661][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.15.11:243][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.15.12:110][689]LogSlate: Window 'Select Path' being destroyed
+[2020.02.25-02.15.38:220][702]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-02.15.51:468][258]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-02.16.05:500][ 90]LogSlate: Window 'Save Asset As' being destroyed
+[2020.02.25-02.16.05:556][ 90]LogMaterial: Display: Missing cached shader map for material SwitchActive, compiling. 
+[2020.02.25-02.16.08:826][ 90]LogSlate: Window 'Message' being destroyed
+[2020.02.25-02.16.29:540][423]LogSlate: Window 'Save Asset As' being destroyed
+[2020.02.25-02.16.29:598][423]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2020.02.25-02.16.38:321][395]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/NegativeFluidMaterial.NegativeFluidMaterial
+[2020.02.25-02.16.38:362][395]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.16.38:580][395]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.16.38:605][395]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.16.40:516][548]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.25-02.16.43:151][779]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.25-02.16.43:152][779]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.25-02.16.43:152][779]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.25-02.16.43:152][779]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.25-02.17.01:970][627]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.17.01:991][627]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.17.01:991][627]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2020.02.25-02.17.02:424][662]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.17.03:988][802]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.25-02.17.06:194][  6]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.25-02.17.06:194][  6]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.25-02.17.06:194][  6]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.25-02.17.06:194][  6]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.25-02.17.14:060][783]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (44.066 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.25-02.17.28:298][155]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.17.28:332][156]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.17.30:041][311]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.25-02.17.32:499][531]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.25-02.17.32:499][531]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.25-02.17.32:499][531]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.25-02.17.32:499][531]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.25-02.17.43:594][634]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.17.43:630][635]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.17.43:651][635]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.02.25-02.17.44:393][702]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.17.46:055][854]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.25-02.17.46:420][889]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.17.47:262][966]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.17.49:105][137]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.25-02.17.50:671][265]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.25-02.17.50:671][265]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.25-02.17.50:672][265]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.25-02.17.50:672][265]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.25-02.18.03:961][547]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.18.04:004][548]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.18.05:062][629]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.25-02.18.05:134][634]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.18.05:135][634]LogMaterial: Warning: /Engine/Transient.NegativeFluidMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.02.25-02.18.05:135][634]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2020.02.25-02.18.05:162][634]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.18.05:163][634]LogMaterial: Warning: /Engine/Transient.NegativeFluidMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.02.25-02.18.05:163][634]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2020.02.25-02.18.05:167][634]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.18.05:168][634]LogMaterial: Warning: /Engine/Transient.NegativeFluidMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.02.25-02.18.05:168][634]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2020.02.25-02.18.05:171][634]MaterialEditorStats: Error: [SM5] Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2020.02.25-02.18.05:992][704]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.18.05:993][704]LogMaterial: Warning: /Engine/Transient.NegativeFluidMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.02.25-02.18.05:993][704]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2020.02.25-02.18.07:097][805]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.18.07:098][805]LogMaterial: Warning: /Engine/Transient.NegativeFluidMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.02.25-02.18.07:098][805]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2020.02.25-02.18.08:048][894]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.18.08:067][894]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.18.08:108][894]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.18.08:132][894]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.18.09:322][995]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.25-02.18.11:694][203]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.25-02.18.11:694][203]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.25-02.18.11:694][203]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.25-02.18.11:694][203]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.25-02.18.18:898][896]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.18.18:936][897]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.18.20:064][995]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.25-02.18.22:474][208]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.25-02.18.22:474][208]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.25-02.18.22:474][208]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.25-02.18.22:474][208]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.25-02.18.36:729][585]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.18.36:742][585]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.18.36:742][585]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.25-02.18.37:149][622]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.18.38:655][755]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.25-02.18.38:660][755]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.18.38:678][755]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.25-02.18.39:431][818]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.18.39:903][853]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.25-02.18.40:935][942]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.18.41:007][942]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.25-02.18.41:023][942]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.18.41:431][974]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.18.41:743][  1]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.18.41:786][  1]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.18.41:786][  1]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.25-02.18.41:813][  1]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.25-02.18.42:190][ 34]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.18.43:632][164]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.25-02.18.45:725][344]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.25-02.18.45:725][344]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.25-02.18.45:725][344]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.25-02.18.45:725][344]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.25-02.18.46:796][444]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.18.46:813][444]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.18.46:813][444]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.25-02.18.47:221][475]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.18.47:620][508]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.18.47:637][508]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.25-02.18.48:270][560]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.18.48:402][572]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.18.48:419][572]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.25-02.18.48:445][572]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.25-02.18.48:930][616]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.18.50:435][751]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.25-02.18.52:686][949]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.02.25-02.18.52:686][949]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.02.25-02.18.52:686][949]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.25-02.18.52:686][949]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.25-02.19.01:434][747]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.01:455][747]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.19.01:455][747]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.25-02.19.01:844][778]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.19.03:230][898]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.25-02.19.03:913][957]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.03:939][957]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.25-02.19.04:564][  5]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.19.06:225][139]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.25-02.19.06:320][147]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.06:351][147]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.25-02.19.07:015][197]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.19.08:609][329]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.25-02.19.11:008][523]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.02.25-02.19.11:008][523]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.02.25-02.19.11:008][523]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.25-02.19.11:008][523]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.25-02.19.13:335][726]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.13:353][726]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.25-02.19.13:379][726]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.25-02.19.13:809][763]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.19.15:423][902]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.25-02.19.17:691][ 96]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.02.25-02.19.17:691][ 96]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.02.25-02.19.17:691][ 96]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.25-02.19.17:691][ 96]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.25-02.19.21:269][412]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.21:296][413]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.19.22:510][520]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.25-02.19.24:982][737]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.02.25-02.19.24:982][737]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.02.25-02.19.24:982][737]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.25-02.19.24:982][737]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.25-02.19.25:036][741]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.25:089][741]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.25:108][741]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.25:128][741]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.19.26:488][857]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.19.29:204][ 86]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.29:237][ 87]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.19.29:946][150]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.29:963][150]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.29:979][150]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.30:057][154]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.19.31:355][267]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.25-02.19.31:824][301]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.31:893][306]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.19.32:774][384]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.32:801][384]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.32:820][384]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.32:923][391]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.19.34:142][495]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.34:618][534]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.19.34:721][542]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.34:739][542]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.19.34:742][542]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.34:763][542]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.34:893][550]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.19.36:362][674]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.19.39:172][903]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.25-02.19.42:156][148]MaterialEditorStats: Base pass shader: 67 instructions
+[2020.02.25-02.19.42:156][148]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 88 instructions
+[2020.02.25-02.19.42:156][148]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2020.02.25-02.19.42:156][148]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.25-02.19.43:298][249]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.43:320][249]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.43:321][249]LogMaterial: Warning: /Engine/Transient.NegativeFluidMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.02.25-02.19.43:321][249]LogMaterial: 	Function SoftOpacity: Missing function input 'OpacityIn'
+[2020.02.25-02.19.43:325][249]MaterialEditorStats: Error: [SM5] Function SoftOpacity: Missing function input 'OpacityIn'
+[2020.02.25-02.19.43:364][250]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.02.25-02.19.45:902][485]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.45:946][486]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.19.47:307][597]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.19.47:518][615]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.47:538][615]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.25-02.19.47:970][649]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.19.49:856][807]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.19.50:454][857]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.50:480][857]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.25-02.19.50:800][880]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.19.51:145][909]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.25-02.19.52:741][ 44]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.19.53:459][103]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.54:071][154]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.19.55:674][291]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.19.58:770][552]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.25-02.19.59:139][583]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.19.59:463][608]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.20.01:009][743]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.20.03:305][942]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.03:574][963]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.20.04:424][ 35]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.04:441][ 35]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.20.05:782][154]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.20.07:531][316]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.07:565][316]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.07:642][321]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.20.08:336][382]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.08:419][388]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.20.09:485][473]LogMaterialEditor: Applying material NegativeFluidMaterial
+[2020.02.25-02.20.09:896][473]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.20.09:920][473]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.09:996][473]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.20.10:051][473]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.10:076][473]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.10:153][473]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2020.02.25-02.20.10:161][473]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-02.20.13:238][473]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.02.25-02.20.13:238][473]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.02.25-02.20.13:238][473]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.02.25-02.20.13:241][473]TextureStreamingBuild: Display: Compiling optional shaders took 3.087 seconds.
+[2020.02.25-02.20.13:292][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.02.25-02.20.15:500][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.20.18:562][925]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.18:579][925]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.20.18:582][925]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.18:821][943]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.20.20:612][ 97]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.20:709][104]LogMaterialEditor: Applying material NegativeFluidMaterial
+[2020.02.25-02.20.21:114][104]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.20.21:139][104]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.21:211][104]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.20.21:223][104]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.21:248][104]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.21:296][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.02.25-02.20.21:303][104]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-02.20.24:331][104]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.02.25-02.20.24:331][104]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.02.25-02.20.24:331][104]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.02.25-02.20.24:333][104]TextureStreamingBuild: Display: Compiling optional shaders took 3.037 seconds.
+[2020.02.25-02.20.24:364][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.02.25-02.20.30:521][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.20.31:775][767]MaterialEditorStats: Base pass shader: 67 instructions
+[2020.02.25-02.20.31:775][767]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 88 instructions
+[2020.02.25-02.20.31:775][767]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2020.02.25-02.20.31:775][767]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.25-02.20.39:129][482]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.39:170][482]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.39:201][483]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.20.40:586][609]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.20.42:642][788]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.42:670][789]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.20.42:750][796]LogMaterialEditor: Applying material NegativeFluidMaterial
+[2020.02.25-02.20.43:178][796]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.43:253][796]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.20.43:297][796]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.43:381][796]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.43:430][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.02.25-02.20.43:437][796]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-02.20.46:519][796]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.02.25-02.20.46:520][796]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.02.25-02.20.46:521][796]TextureStreamingBuild: Display: Compiling optional shaders took 3.091 seconds.
+[2020.02.25-02.20.46:552][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.02.25-02.20.50:292][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.20.53:577][416]MaterialEditorStats: Base pass shader: 71 instructions
+[2020.02.25-02.20.53:577][416]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 92 instructions
+[2020.02.25-02.20.53:577][416]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2020.02.25-02.20.53:577][416]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.25-02.20.55:249][575]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.55:268][575]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.55:298][576]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.20.56:509][677]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.20.56:520][678]LogMaterialEditor: Applying material NegativeFluidMaterial
+[2020.02.25-02.20.56:944][678]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.57:020][678]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.20.57:032][678]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.57:058][678]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.20.57:106][678]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.02.25-02.20.57:106][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.02.25-02.20.57:114][678]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-02.21.00:349][678]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.02.25-02.21.00:349][678]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.02.25-02.21.00:349][678]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.02.25-02.21.00:351][678]TextureStreamingBuild: Display: Compiling optional shaders took 3.244 seconds.
+[2020.02.25-02.21.00:381][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.02.25-02.21.04:742][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.21.07:317][263]MaterialEditorStats: Base pass shader: 71 instructions
+[2020.02.25-02.21.07:317][263]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 92 instructions
+[2020.02.25-02.21.07:317][263]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2020.02.25-02.21.07:317][263]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.25-02.21.09:184][449]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.21.09:225][449]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.21.09:254][450]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.21.10:170][531]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.21.10:279][538]LogMaterialEditor: Applying material NegativeFluidMaterial
+[2020.02.25-02.21.10:687][538]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.21.10:711][538]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.21.10:797][538]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.21.10:832][538]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.21.10:832][538]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.21.10:881][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.02.25-02.21.10:888][538]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-02.21.13:997][538]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.02.25-02.21.13:997][538]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.02.25-02.21.13:997][538]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.02.25-02.21.13:999][538]TextureStreamingBuild: Display: Compiling optional shaders took 3.118 seconds.
+[2020.02.25-02.21.14:029][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.02.25-02.21.19:782][ 12]MaterialEditorStats: Base pass shader: 71 instructions
+[2020.02.25-02.21.19:782][ 12]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 92 instructions
+[2020.02.25-02.21.19:782][ 12]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2020.02.25-02.21.19:782][ 12]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.25-02.21.29:799][133]Cmd: TRANSACTION UNDO
+[2020.02.25-02.21.29:799][133]LogEditorTransaction: Undo Move Components
+[2020.02.25-02.21.29:809][133]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.21.29:846][134]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.21.30:864][246]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.21.32:981][491]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.25-02.21.34:867][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.21.35:507][782]MaterialEditorStats: Base pass shader: 71 instructions
+[2020.02.25-02.21.35:507][782]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 92 instructions
+[2020.02.25-02.21.35:507][782]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2020.02.25-02.21.35:507][782]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.25-02.21.46:357][ 78]LogSlate: Window 'Select Path' being destroyed
+[2020.02.25-02.21.46:416][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.02.25-02.21.46:441][ 78]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/NegativeFluid.NegativeFluid
+[2020.02.25-02.21.46:910][ 79]LogRenderer: Reallocating scene render targets to support 1140x720 Format 10 NumSamples 1 (Frame:1).
+[2020.02.25-02.21.51:471][270]LogSlate: Window 'Message' being destroyed
+[2020.02.25-02.21.51:896][270]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.21.51:975][270]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.21.51:993][270]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.21.52:020][270]LogMaterial: Display: Missing cached shader map for material NegativeFluidMaterial, compiling. 
+[2020.02.25-02.21.52:073][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.02.25-02.21.52:081][270]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-02.21.55:166][270]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.02.25-02.21.55:166][270]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.02.25-02.21.55:166][270]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.02.25-02.21.55:167][270]TextureStreamingBuild: Display: Compiling optional shaders took 3.094 seconds.
+[2020.02.25-02.21.55:201][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.02.25-02.21.55:207][270]LogSlate: Window 'NegativeFluid' being destroyed
+[2020.02.25-02.21.55:209][270]LogSlate: Window 'NegativeFluid' being destroyed
+[2020.02.25-02.21.55:398][270]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.25-02.21.59:084][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.22.02:921][ 62]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.25-02.22.04:129][198]LogEditorViewport: Clicking on Actor (LMB): NegativeFluid_C (NegativeFluid)
+[2020.02.25-02.22.04:327][216]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-02.22.07:857][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.22.13:518][272]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.02.25-02.22.25:329][645]LogMaterial: Display: Missing cached shader map for material PositiveFluidMaterial, compiling. 
+[2020.02.25-02.22.26:483][757]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/PositiveFluidMaterial.PositiveFluidMaterial
+[2020.02.25-02.22.26:486][757]LogMaterial: Display: Missing cached shader map for material PositiveFluidMaterial, compiling. 
+[2020.02.25-02.22.26:567][757]LogMaterial: Display: Missing cached shader map for material PositiveFluidMaterial, compiling. 
+[2020.02.25-02.22.26:589][757]LogMaterial: Display: Missing cached shader map for material PositiveFluidMaterial, compiling. 
+[2020.02.25-02.22.26:633][757]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.25-02.22.31:094][130]LogMaterial: Display: Missing cached shader map for material PositiveFluidMaterial, compiling. 
+[2020.02.25-02.22.31:145][130]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.25-02.22.31:778][178]LogMaterial: Display: Missing cached shader map for material PositiveFluidMaterial, compiling. 
+[2020.02.25-02.22.31:801][178]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.25-02.22.31:828][178]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.25-02.22.32:791][261]LogMaterialEditor: Applying material PositiveFluidMaterial
+[2020.02.25-02.22.33:201][261]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.22.33:215][261]LogMaterial: Display: Missing cached shader map for material PositiveFluidMaterial, compiling. 
+[2020.02.25-02.22.33:300][261]LogMaterial: Display: Missing cached shader map for material PositiveFluidMaterial, compiling. 
+[2020.02.25-02.22.33:325][261]LogMaterial: Display: Missing cached shader map for material PositiveFluidMaterial, compiling. 
+[2020.02.25-02.22.33:396][261]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.02.25-02.22.33:403][261]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-02.22.36:679][261]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.02.25-02.22.36:679][261]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.02.25-02.22.36:679][261]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.02.25-02.22.36:682][261]TextureStreamingBuild: Display: Compiling optional shaders took 3.286 seconds.
+[2020.02.25-02.22.36:707][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.02.25-02.22.36:938][279]LogMaterialEditor: Saving and Compiling material PositiveFluidMaterial
+[2020.02.25-02.22.40:114][279]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/PositiveFluidMaterialEBE090D046D6F4C196C20A9DC15B18F9.tmp' to '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/Materials/PositiveFluidMaterial.uasset'
+[2020.02.25-02.22.40:128][279]MaterialEditorStats: Base pass shader: 71 instructions
+[2020.02.25-02.22.40:128][279]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 92 instructions
+[2020.02.25-02.22.40:128][279]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2020.02.25-02.22.40:128][279]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.25-02.22.41:176][380]LogSlate: Window 'PositiveFluidMaterial' being destroyed
+[2020.02.25-02.22.41:179][380]LogSlate: Window 'PositiveFluidMaterial' being destroyed
+[2020.02.25-02.22.49:603][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.22.55:767][ 62]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PositiveFluid.PositiveFluid
+[2020.02.25-02.22.57:750][213]LogSlate: Window 'PositiveFluid' being destroyed
+[2020.02.25-02.22.57:753][213]LogSlate: Window 'PositiveFluid' being destroyed
+[2020.02.25-02.23.08:910][421]LogEditorViewport: Clicking on Actor (LMB): PositiveFluid_C (PositiveFluid)
+[2020.02.25-02.23.12:798][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.23.12:912][891]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PositiveFluid.PositiveFluid
+[2020.02.25-02.23.30:579][295]LogSlate: Window 'PositiveFluid' being destroyed
+[2020.02.25-02.23.30:582][295]LogSlate: Window 'PositiveFluid' being destroyed
+[2020.02.25-02.23.33:168][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.23.35:660][867]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/NegativeFluidMaterial.NegativeFluidMaterial
+[2020.02.25-02.23.35:677][867]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.02.25-02.23.35:767][867]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.02.25-02.23.35:794][867]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.02.25-02.23.35:826][867]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.25-02.23.35:839][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.25-02.23.37:267][982]LogSlate: Window 'NegativeFluidMaterial' being destroyed
+[2020.02.25-02.23.37:271][982]LogSlate: Window 'NegativeFluidMaterial' being destroyed
+[2020.02.25-02.23.37:500][982]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.25-02.23.39:990][239]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.25-02.23.46:699][ 12]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/PosFluidMaterial598D32E54BAD3ABE95122D8E3F062F83.tmp' to '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/Materials/PosFluidMaterial.uasset'
+[2020.02.25-02.23.46:837][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.02.25-02.23.46:866][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.02.25-02.23.46:890][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.02.25-02.23.52:833][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/NegFluidMat" FILE="../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/Materials/NegFluidMat.uasset" SILENT=true
+[2020.02.25-02.23.52:851][706]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/NegFluidMatDAC6EAB64B78812E368278A07ECC94D1.tmp' to '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/Materials/NegFluidMat.uasset'
+[2020.02.25-02.23.52:991][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.02.25-02.23.53:019][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.02.25-02.23.53:044][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.02.25-02.23.57:203][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/PosFluidMat" FILE="../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/Materials/PosFluidMat.uasset" SILENT=true
+[2020.02.25-02.23.57:221][184]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/PosFluidMatA469E70340315201CDB619BAB46938F3.tmp' to '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/Materials/PosFluidMat.uasset'
+[2020.02.25-02.23.57:349][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.02.25-02.23.57:378][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.02.25-02.23.57:403][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.02.25-02.24.06:685][258]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-02.24.08:969][525]LogEditorViewport: Clicking on Actor (LMB): NegativeFluid_C (NegativeFluid)
+[2020.02.25-02.24.11:005][764]LogEditorViewport: Clicking on Actor (LMB): PositiveFluid_C (PositiveFluid)
+[2020.02.25-02.24.11:775][851]LogEditorViewport: Clicking on Actor (LMB): NegativeFluid_C (NegativeFluid)
+[2020.02.25-02.24.13:164][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.24.17:473][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.02.25-02.24.17:474][482]LogMetaData: Removing '/Game/Blueprints/PosFluid.PosFluid:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/NegativeFluid.PackageMetaData'
+[2020.02.25-02.24.17:474][482]LogMetaData: Removing '/Game/Blueprints/PosFluid.SKEL_PosFluid_C' ref from Metadata '/Game/Blueprints/NegativeFluid.PackageMetaData'
+[2020.02.25-02.24.17:474][482]LogMetaData: Removing '/Game/Blueprints/PosFluid.PosFluid_C' ref from Metadata '/Game/Blueprints/NegativeFluid.PackageMetaData'
+[2020.02.25-02.24.17:474][482]LogMetaData: Removing '/Game/Blueprints/PosFluid.PosFluid:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/NegativeFluid.PackageMetaData'
+[2020.02.25-02.24.17:474][482]LogMetaData: Removing '/Game/Blueprints/PosFluid.PosFluid:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/NegativeFluid.PackageMetaData'
+[2020.02.25-02.24.17:474][482]LogMetaData: Removing '/Game/Blueprints/PosFluid.PosFluid:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/NegativeFluid.PackageMetaData'
+[2020.02.25-02.24.17:510][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PosFluid" FILE="../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/Blueprints/PosFluid.uasset" SILENT=true
+[2020.02.25-02.24.17:535][482]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/PosFluidFDAE7D6D4850D803918021B8606B02FE.tmp' to '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/Blueprints/PosFluid.uasset'
+[2020.02.25-02.24.17:663][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.02.25-02.24.17:692][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.02.25-02.24.17:716][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.02.25-02.24.21:783][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.02.25-02.24.21:784][925]LogMetaData: Removing '/Game/Blueprints/NegFluid.SKEL_NegFluid_C' ref from Metadata '/Game/Blueprints/PositiveFluid.PackageMetaData'
+[2020.02.25-02.24.21:784][925]LogMetaData: Removing '/Game/Blueprints/NegFluid.NegFluid_C' ref from Metadata '/Game/Blueprints/PositiveFluid.PackageMetaData'
+[2020.02.25-02.24.21:816][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NegFluid" FILE="../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/Blueprints/NegFluid.uasset" SILENT=true
+[2020.02.25-02.24.21:842][925]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/NegFluid9E9572AC4EB7F58D8E2DFA872AF3E05C.tmp' to '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/Blueprints/NegFluid.uasset'
+[2020.02.25-02.24.21:971][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.02.25-02.24.22:000][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.02.25-02.24.22:024][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.02.25-02.24.23:938][146]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/NegFluid.NegFluid
+[2020.02.25-02.24.26:632][370]LogSlate: Window 'NegFluid' being destroyed
+[2020.02.25-02.24.26:636][370]LogSlate: Window 'NegFluid' being destroyed
+[2020.02.25-02.24.32:549][ 41]LogEditorViewport: Clicking on Actor (LMB): PosFluid_C (NegativeFluid)
+[2020.02.25-02.24.33:206][115]Cmd: DELETE
+[2020.02.25-02.24.33:206][115]Cmd: ACTOR DELETE
+[2020.02.25-02.24.33:208][115]LogEditorActor: Deleted Actor: PosFluid_C
+[2020.02.25-02.24.33:236][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.02.25-02.24.33:236][115]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.25-02.24.34:004][207]LogEditorViewport: Clicking on Actor (LMB): NegFluid_C (PositiveFluid)
+[2020.02.25-02.24.34:761][293]Cmd: DELETE
+[2020.02.25-02.24.34:761][293]Cmd: ACTOR DELETE
+[2020.02.25-02.24.34:762][293]LogEditorActor: Deleted Actor: NegFluid_C
+[2020.02.25-02.24.34:788][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.02.25-02.24.34:789][293]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.02.25-02.24.36:027][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.24.42:646][184]LogEditorViewport: Clicking on Actor (LMB): NegFluid_C (NegFluid)
+[2020.02.25-02.24.44:580][396]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-02.24.52:288][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.25-02.24.53:801][425]LogEditorViewport: Clicking on Actor (LMB): NegFluid_C (NegFluid)
+[2020.02.25-02.24.53:917][434]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-02.25.19:861][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.02.25-02.25.20:079][619]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/FinalRoomAustin_Auto19C25DD3942ED0AE7011E80B4478D80A8.tmp' to '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/Autosaves/Game/Levels/FinalRoomAustin_Auto1.umap'
+[2020.02.25-02.25.20:084][619]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/FinalRoomAustin' took 0.256
+[2020.02.25-02.25.20:084][619]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.256
+[2020.02.25-02.25.56:270][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.25.57:356][844]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-02.25.57:370][844]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.25.57:370][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-02.25.57:370][844]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 4:25:57 PM)
+[2020.02.25-02.25.57:370][844]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-02.25.57:374][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003497s)
+[2020.02.25-02.25.57:374][844]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-02.25.57:375][844]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2020.02.25-02.25.57:375][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.004531s)
+[2020.02.25-02.25.57:402][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.02.25-02.25.57:438][844]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-02.25.57:452][844]LogInit: FAudioDevice initialized.
+[2020.02.25-02.25.57:482][844]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-02.25.57:483][844]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 0) at 2020.02.24-21.25.57
+[2020.02.25-02.25.57:483][844]LogWorld: Bringing up level for play took: 0.000822
+[2020.02.25-02.25.57:496][844]Set new viewmode: Unlit
+[2020.02.25-02.25.57:496][844]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin 0.94
+[2020.02.25-02.25.57:497][844]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.26.02:574][449]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.26.02:574][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.26.02:605][449]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-02.26.02:605][449]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.26.02:634][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.26.02:638][449]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.02.25-02.26.02:679][451]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.02.25-02.26.03:771][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.26.03:863][593]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-02.26.03:875][593]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.26.03:876][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-02.26.03:876][593]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 4:26:03 PM)
+[2020.02.25-02.26.03:876][593]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-02.26.03:879][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002966s)
+[2020.02.25-02.26.03:879][593]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-02.26.03:879][593]LogPlayLevel: PIE: World Init took: (0.000533s)
+[2020.02.25-02.26.03:879][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.003618s)
+[2020.02.25-02.26.03:902][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.02.25-02.26.03:935][593]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-02.26.03:946][593]LogInit: FAudioDevice initialized.
+[2020.02.25-02.26.03:975][593]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-02.26.03:976][593]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 0) at 2020.02.24-21.26.03
+[2020.02.25-02.26.03:976][593]LogWorld: Bringing up level for play took: 0.000771
+[2020.02.25-02.26.03:989][593]Set new viewmode: Unlit
+[2020.02.25-02.26.03:989][593]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin -0.567
+[2020.02.25-02.26.03:990][593]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.26.06:706][916]Set new viewmode: Lit
+[2020.02.25-02.26.12:174][572]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.26.12:174][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.26.12:204][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-02.26.12:204][572]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.26.12:233][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.26.12:237][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.02.25-02.26.12:275][574]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.02.25-02.26.14:190][803]LogEditorViewport: Clicking on Actor (LMB): NegFluid_C (NegFluid)
+[2020.02.25-02.26.21:962][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.26.59:400][163]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-02.26.59:413][163]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.26.59:413][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-02.26.59:413][163]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 4:26:59 PM)
+[2020.02.25-02.26.59:413][163]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-02.26.59:417][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003133s)
+[2020.02.25-02.26.59:417][163]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-02.26.59:417][163]LogPlayLevel: PIE: World Init took: (0.000520s)
+[2020.02.25-02.26.59:417][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.003775s)
+[2020.02.25-02.26.59:441][163]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.02.25-02.26.59:474][163]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-02.26.59:485][163]LogInit: FAudioDevice initialized.
+[2020.02.25-02.26.59:513][163]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-02.26.59:514][163]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 0) at 2020.02.24-21.26.59
+[2020.02.25-02.26.59:515][163]LogWorld: Bringing up level for play took: 0.000946
+[2020.02.25-02.26.59:528][163]Set new viewmode: Unlit
+[2020.02.25-02.26.59:528][163]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin 0.972
+[2020.02.25-02.26.59:529][163]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.27.00:807][313]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.27.00:807][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.27.00:839][313]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-02.27.00:839][313]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.27.00:869][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.27.00:872][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.02.25-02.27.00:907][315]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.02.25-02.27.01:776][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.27.10:593][464]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-02.27.10:606][464]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.27.10:607][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-02.27.10:607][464]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 4:27:10 PM)
+[2020.02.25-02.27.10:607][464]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-02.27.10:610][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003041s)
+[2020.02.25-02.27.10:610][464]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-02.27.10:610][464]LogPlayLevel: PIE: World Init took: (0.000520s)
+[2020.02.25-02.27.10:611][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.003697s)
+[2020.02.25-02.27.10:637][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.02.25-02.27.10:670][464]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-02.27.10:682][464]LogInit: FAudioDevice initialized.
+[2020.02.25-02.27.10:708][464]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-02.27.10:709][464]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 0) at 2020.02.24-21.27.10
+[2020.02.25-02.27.10:710][464]LogWorld: Bringing up level for play took: 0.000873
+[2020.02.25-02.27.10:723][464]Set new viewmode: Unlit
+[2020.02.25-02.27.10:723][464]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin 0.167
+[2020.02.25-02.27.10:723][464]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.27.15:976][ 90]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.27.15:976][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.27.16:006][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-02.27.16:006][ 90]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.27.16:035][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.27.16:038][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.02.25-02.27.16:077][ 92]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.02.25-02.27.16:594][154]LogEditorViewport: Clicking on Actor (LMB): PosFluid_C (PosFluid)
+[2020.02.25-02.27.20:834][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.27.39:575][878]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/NegFluid.NegFluid
+[2020.02.25-02.27.49:629][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NegFluid" FILE="../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/Blueprints/NegFluid.uasset" SILENT=true
+[2020.02.25-02.27.49:705][769]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/NegFluid658B6D214B84A9F2DA08B7830CF38725.tmp' to '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/Blueprints/NegFluid.uasset'
+[2020.02.25-02.27.51:145][905]LogSlate: Window 'NegFluid' being destroyed
+[2020.02.25-02.27.51:148][905]LogSlate: Window 'NegFluid' being destroyed
+[2020.02.25-02.27.52:147][ 16]LogEditorViewport: Clicking on Actor (LMB): NegFluid_C (NegFluid)
+[2020.02.25-02.27.53:556][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.27.53:653][191]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/NegFluid.NegFluid
+[2020.02.25-02.28.01:965][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NegFluid" FILE="../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/Blueprints/NegFluid.uasset" SILENT=true
+[2020.02.25-02.28.02:031][915]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/NegFluid41693C244AFB709533E493AA960AAAC4.tmp' to '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/Blueprints/NegFluid.uasset'
+[2020.02.25-02.28.02:488][957]BlueprintLog: New page: Compile NegFluid
+[2020.02.25-02.28.02:679][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.02.25-02.28.04:023][ 80]LogSlate: Window 'NegFluid' being destroyed
+[2020.02.25-02.28.04:027][ 80]LogSlate: Window 'NegFluid' being destroyed
+[2020.02.25-02.28.04:997][188]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-02.28.05:010][188]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.28.05:010][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-02.28.05:010][188]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 4:28:05 PM)
+[2020.02.25-02.28.05:010][188]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-02.28.05:013][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002911s)
+[2020.02.25-02.28.05:013][188]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-02.28.05:014][188]LogPlayLevel: PIE: World Init took: (0.000524s)
+[2020.02.25-02.28.05:014][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.003550s)
+[2020.02.25-02.28.05:042][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.02.25-02.28.05:075][188]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-02.28.05:086][188]LogInit: FAudioDevice initialized.
+[2020.02.25-02.28.05:118][188]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-02.28.05:119][188]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 0) at 2020.02.24-21.28.05
+[2020.02.25-02.28.05:119][188]LogWorld: Bringing up level for play took: 0.000802
+[2020.02.25-02.28.05:132][188]Set new viewmode: Unlit
+[2020.02.25-02.28.05:132][188]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin 0.576
+[2020.02.25-02.28.05:133][188]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.28.37:178][ 27]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.28.37:178][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.28.37:206][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-02.28.37:206][ 27]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.28.37:245][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-02.28.37:249][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.02.25-02.28.37:288][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.02.25-02.31.26:388][724]LogEditorViewport: Clicking on Actor (LMB): MagneticCubeBP_C (MagneticCubeBP)
+[2020.02.25-02.31.26:655][752]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-02.31.32:178][836]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-02.31.34:106][ 37]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-02.31.35:957][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.31.36:080][259]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MagneticCubeBP.MagneticCubeBP
+[2020.02.25-02.36.02:675][435]BlueprintLog: New page: Compile MagneticCubeBP
+[2020.02.25-02.36.02:865][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.02.25-02.36.03:426][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagneticCubeBP" FILE="../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/MagneticCubeBP.uasset" SILENT=true
+[2020.02.25-02.36.03:507][484]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/MagneticCubeBP040E85F04A9444D9C6841D9610AA8634.tmp' to '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/MagneticCubeBP.uasset'
+[2020.02.25-02.36.04:700][597]LogSlate: Window 'MagneticCubeBP' being destroyed
+[2020.02.25-02.36.04:703][597]LogSlate: Window 'MagneticCubeBP' being destroyed
+[2020.02.25-02.36.05:390][671]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-02.36.05:403][671]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.36.05:403][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-02.36.05:403][671]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 4:36:05 PM)
+[2020.02.25-02.36.05:403][671]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-02.36.05:406][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003013s)
+[2020.02.25-02.36.05:407][671]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-02.36.05:407][671]LogPlayLevel: PIE: World Init took: (0.000599s)
+[2020.02.25-02.36.05:407][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.003771s)
+[2020.02.25-02.36.05:435][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.02.25-02.36.05:469][671]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-02.36.05:482][671]LogInit: FAudioDevice initialized.
+[2020.02.25-02.36.05:509][671]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-02.36.05:510][671]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 0) at 2020.02.24-21.36.05
+[2020.02.25-02.36.05:510][671]LogWorld: Bringing up level for play took: 0.000854
+[2020.02.25-02.36.05:523][671]Set new viewmode: Unlit
+[2020.02.25-02.36.05:523][671]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin 0.968
+[2020.02.25-02.36.05:524][671]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-02.37.44:463][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.40.27:122][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagneticCubeBP" FILE="../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/MagneticCubeBP.uasset" SILENT=true
+[2020.02.25-02.40.27:193][ 58]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/MagneticCubeBP5816F3EF4DB1D392D7A16F9D179ED818.tmp' to '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/MagneticCubeBP.uasset'
+[2020.02.25-02.40.28:192][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagneticCubeBP" FILE="../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/MagneticCubeBP.uasset" SILENT=true
+[2020.02.25-02.40.28:261][176]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/MagneticCubeBP09E69C4D40429049C15FC3A9580A2F74.tmp' to '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/MagneticCubeBP.uasset'
+[2020.02.25-02.40.28:374][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagneticCubeBP" FILE="../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/MagneticCubeBP.uasset" SILENT=true
+[2020.02.25-02.40.28:443][188]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/MagneticCubeBP4271E8914F5A7F597A5D4AB16EA6C184.tmp' to '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/MagneticCubeBP.uasset'
+[2020.02.25-02.40.28:544][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagneticCubeBP" FILE="../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/MagneticCubeBP.uasset" SILENT=true
+[2020.02.25-02.40.28:613][199]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/MagneticCubeBP3B74EDAB4B9A8A62309CD9ACB467FB8F.tmp' to '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/MagneticCubeBP.uasset'
+[2020.02.25-02.40.29:178][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.02.25-02.40.29:398][262]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Saved/FinalRoomAustinB2204BAA4D3C018441AE359C809630EF.tmp' to '../../../../../../Users/Chris/Documents/GitHub/First-Dungeon-Assignment/DungeonLevel/Content/Levels/FinalRoomAustin.umap'
