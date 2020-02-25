@@ -1,0 +1,1575 @@
+﻿Log file open, 02/24/20 19:11:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: DungeonProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.277398
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Engine.ini]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Engine.ini]
+[2020.02.25-00.11.28:721][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Engine.ini]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Engine.ini]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.25-00.11.28:721][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Engine.ini]
+[2020.02.25-00.11.28:721][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Engine.ini]
+[2020.02.25-00.11.28:724][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-00.11.28:724][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.25-00.11.28:724][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.25-00.11.28:724][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-00.11.28:724][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.25-00.11.28:724][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-00.11.28:724][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.25-00.11.28:724][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.25-00.11.28:724][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.25-00.11.28:724][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.25-00.11.28:724][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.25-00.11.28:724][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.25-00.11.28:724][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.25-00.11.28:724][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.25-00.11.28:724][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.25-00.11.28:724][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.25-00.11.28:724][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.25-00.11.28:724][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.25-00.11.28:725][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.25-00.11.28:725][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.25-00.11.28:725][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.25-00.11.28:750][  0]LogHAL: Display: Platform has ~ 8 GB [8505778176 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.25-00.11.28:750][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.25-00.11.28:750][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.25-00.11.28:750][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.25-00.11.28:750][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.25-00.11.28:750][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.25-00.11.28:750][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.25-00.11.28:751][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.25-00.11.28:752][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.25-00.11.28:752][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.25-00.11.28:752][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/Config/Windows/Engine.ini]
+[2020.02.25-00.11.28:752][  0]LogInit: Computer: MSI
+[2020.02.25-00.11.28:752][  0]LogInit: User: Gomorrah
+[2020.02.25-00.11.28:752][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.25-00.11.28:752][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.25-00.11.28:752][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.02.25-00.11.28:752][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.25-00.11.28:752][  0]LogMemory: Process Physical Memory: 97.96 MB used, 97.97 MB peak
+[2020.02.25-00.11.28:752][  0]LogMemory: Process Virtual Memory: 90.96 MB used, 90.96 MB peak
+[2020.02.25-00.11.28:752][  0]LogMemory: Physical Memory: 6026.93 MB used,  2084.82 MB free, 8111.74 MB total
+[2020.02.25-00.11.28:752][  0]LogMemory: Virtual Memory: 4643.20 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2020.02.25-00.11.28:782][  0]LogInit: Using OS detected language (en-US).
+[2020.02.25-00.11.28:782][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.25-00.11.28:783][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.25-00.11.28:962][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.25-00.11.29:009][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.25-00.11.29:009][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.25-00.11.29:345][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.25-00.11.29:345][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.25-00.11.29:555][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.02.25-00.11.29:555][  0]LogD3D11RHI:       4021/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.25-00.11.29:575][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.02.25-00.11.29:575][  0]LogD3D11RHI:       128/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.02.25-00.11.29:578][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.25-00.11.29:578][  0]LogD3D11RHI:       0/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.25-00.11.29:578][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.25-00.11.29:620][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.25-00.11.29:620][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2020.02.25-00.11.29:620][  0]LogWindows: EnumDisplayDevices:
+[2020.02.25-00.11.29:620][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.02.25-00.11.29:621][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.02.25-00.11.29:621][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.02.25-00.11.29:621][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.02.25-00.11.29:621][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.02.25-00.11.29:621][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.02.25-00.11.29:621][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.02.25-00.11.29:621][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2020.02.25-00.11.29:675][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.25-00.11.29:685][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.25-00.11.29:685][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.25-00.11.29:685][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.25-00.11.29:693][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.25-00.11.30:346][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.25-00.11.30:359][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.25-00.11.30:374][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.25-00.11.30:388][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.25-00.11.30:403][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.25-00.11.30:416][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.25-00.11.30:430][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.25-00.11.30:443][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.25-00.11.30:450][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.25-00.11.30:533][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.25-00.11.30:533][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.25-00.11.30:533][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.25-00.11.30:533][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.25-00.11.30:533][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.25-00.11.30:533][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.25-00.11.30:533][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.25-00.11.30:533][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.25-00.11.30:533][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.25-00.11.30:533][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.25-00.11.30:533][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.25-00.11.30:533][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.25-00.11.30:533][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.25-00.11.30:533][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.25-00.11.30:533][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.25-00.11.30:533][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.25-00.11.30:533][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.25-00.11.30:533][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.25-00.11.30:536][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.25-00.11.30:586][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.25-00.11.30:586][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.25-00.11.30:611][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.25-00.11.30:612][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.25-00.11.30:624][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.25-00.11.30:638][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.25-00.11.30:651][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.25-00.11.30:665][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.25-00.11.30:711][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.25-00.11.30:711][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.25-00.11.30:711][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.25-00.11.30:720][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.25-00.11.30:761][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Intermediate/Shaders/WorkingDirectory/16824/).
+[2020.02.25-00.11.30:761][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Gomorrah/AppData/Local/Temp/UnrealShaderWorkingDir/2580233146E1B322FED863998A671232/'.
+[2020.02.25-00.11.30:763][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.25-00.11.30:763][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.25-00.11.30:763][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.25-00.11.31:349][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.25-00.11.31:412][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Gomorrah/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.25-00.11.31:412][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Gomorrah/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.25-00.11.31:412][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.25-00.11.31:412][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.25-00.11.31:412][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.25-00.11.31:412][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.25-00.11.31:425][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.25-00.11.31:426][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.25-00.11.31:426][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.25-00.11.31:439][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Gomorrah/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.25-00.11.31:439][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.25-00.11.31:439][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.25-00.11.31:462][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.25-00.11.31:463][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.25-00.11.31:464][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.25-00.11.31:571][  0]LogAssetRegistry: FAssetRegistry took 0.0334 seconds to start up
+[2020.02.25-00.11.31:913][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.25-00.11.32:058][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.25-00.11.32:058][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.25-00.11.32:058][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.25-00.11.32:058][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.25-00.11.32:058][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.25-00.11.32:073][  0]LogNetVersion: DungeonProject 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 462601710)
+[2020.02.25-00.11.32:674][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.190324 seconds
+[2020.02.25-00.11.32:681][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.02.25-00.11.32:681][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.02.25-00.11.32:681][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.25-00.11.33:756][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.25-00.11.33:770][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.25-00.11.33:879][  0]SourceControl: Source control is disabled
+[2020.02.25-00.11.33:879][  0]SourceControl: Source control is disabled
+[2020.02.25-00.11.33:881][  0]SourceControl: Source control is disabled
+[2020.02.25-00.11.33:882][  0]SourceControl: Source control is disabled
+[2020.02.25-00.11.33:966][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.25-00.11.34:065][  0]LogOcInput: OculusInput pre-init called
+[2020.02.25-00.11.34:959][  0]LogEngine: Initializing Engine...
+[2020.02.25-00.11.34:960][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.25-00.11.34:961][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.25-00.11.35:199][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.25-00.11.35:211][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.25-00.11.35:247][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-00.11.35:339][  0]LogInit: FAudioDevice initialized.
+[2020.02.25-00.11.35:339][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.25-00.11.35:500][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/Gomorrah/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.25-00.11.35:502][  0]LogInit: Texture streaming: Enabled
+[2020.02.25-00.11.35:519][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.25-00.11.35:540][  0]LogInit: Transaction tracking system initialized
+[2020.02.25-00.11.35:564][  0]BlueprintLog: New page: Editor Load
+[2020.02.25-00.11.35:631][  0]LocalizationService: Localization service is disabled
+[2020.02.25-00.11.35:741][  0]LogLinker: Warning: Can't find file '/Game/VehicleCPP/VehicleOverview'
+[2020.02.25-00.11.35:741][  0]LogLinker: Warning: Can't find file '/Game/VehicleCPP/VehicleOverview'
+[2020.02.25-00.11.35:741][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/VehicleCPP/VehicleOverview.VehicleOverview_C'
+[2020.02.25-00.11.35:965][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Content/' took 0.02s
+[2020.02.25-00.11.35:965][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.25-00.11.35:965][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.25-00.11.36:159][  0]SourceControl: Source control is disabled
+[2020.02.25-00.11.36:159][  0]Cmd: MAP LOAD FILE="../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Content/Levels/FirstRoomPaul.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.25-00.11.36:566][  0]LightingResults: New page: Lighting Build
+[2020.02.25-00.11.36:569][  0]MapCheck: New page: Map Check
+[2020.02.25-00.11.36:569][  0]LightingResults: New page: Lighting Build
+[2020.02.25-00.11.36:594][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.02.25-00.11.37:194][  0]LogBlueprint: Warning: [Compiler MyCharacter] Cast To MyCharacter  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.02.25-00.11.37:246][  0]LogBlueprint: Warning: [Compiler MyCharacter] [0012.07] Compile of MyCharacter successful, but with 1 Warning(s) [in 78 ms] (/Game/Blueprints/MyCharacter.MyCharacter)
+[2020.02.25-00.11.38:291][  0]LogMaterial: Display: Missing cached shader map for material BlackColor, compiling. 
+[2020.02.25-00.11.39:071][  0]LogAIModule: Creating AISystem for world FirstRoomPaul
+[2020.02.25-00.11.39:113][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.25-00.11.39:143][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.02.25-00.11.39:143][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.25-00.11.39:144][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.169ms to complete.
+[2020.02.25-00.11.39:144][  0]LogFileHelpers: Loading map 'FirstRoomPaul' took 2.986
+[2020.02.25-00.11.39:759][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.11.39:818][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.11.39:825][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.11.39:832][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.11.39:867][  0]LogCollectionManager: Loaded 0 collections in 0.001182 seconds
+[2020.02.25-00.11.40:067][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/Collections/' took 0.01s
+[2020.02.25-00.11.40:067][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Content/Developers/Gomorrah/Collections/' took 0.01s
+[2020.02.25-00.11.40:067][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Content/Collections/' took 0.01s
+[2020.02.25-00.11.40:067][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.02.25-00.11.40:079][  0]LogContentBrowser: Native class hierarchy populated in 0.0116 seconds. Added 2732 classes and 659 folders.
+[2020.02.25-00.11.40:383][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.02.25-00.11.40:521][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.40:615][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.40:637][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.40:693][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.40:753][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.40:821][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.40:918][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.41:037][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.41:151][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.41:318][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.41:363][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.41:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.41:484][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.41:528][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.41:605][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.41:711][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.41:774][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.41:877][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.41:962][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.42:024][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.42:094][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.42:145][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.42:262][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.42:327][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.42:489][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.42:543][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-00.11.45:416][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.25-00.11.45:530][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.02.25-00.11.45:868][  0]LogSlate: Took 0.000374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.25-00.11.45:872][  0]LogSlate: Took 0.000372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.25-00.11.45:911][  0]LogSlate: Took 0.028368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.25-00.11.45:995][  0]LogRenderer: Reallocating scene render targets to support 888x444 Format 10 NumSamples 1 (Frame:1).
+[2020.02.25-00.11.46:375][  0]LogSlate: Took 0.064086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.25-00.11.46:942][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.25-00.11.46:943][  0]LogLoad: (Engine Initialization) Total time: 21.77 seconds
+[2020.02.25-00.11.46:943][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.25-00.11.47:447][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.25-00.11.47:912][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Content/' took 0.91s
+[2020.02.25-00.11.48:332][  3]LogSlate: Took 0.000642 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.25-00.12.06:919][ 14]LogAssetRegistry: Asset discovery search completed in 35.3696 seconds
+[2020.02.25-00.12.06:922][ 14]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.02.25-00.12.06:922][ 14]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000112 seconds (updated 0 objects)
+[2020.02.25-00.12.14:492][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.12.14:710][145]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/MyCharacter.MyCharacter
+[2020.02.25-00.12.15:418][145]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.02.25-00.12.17:070][145]LogSlate: Took 0.019822 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.25-00.12.17:530][146]LogSlate: Took 0.024539 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.25-00.12.20:184][286]BlueprintLog: New page: Compile MyCharacter
+[2020.02.25-00.12.20:242][286]LogBlueprint: Warning: [Compiler MyCharacter] Cast To MyCharacter  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.02.25-00.12.20:514][286]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.02.25-00.12.20:588][286]LogBlueprint: Warning: [Compiler MyCharacter] [0055.41] Compile of MyCharacter successful, but with 1 Warning(s) [in 403 ms] (/Game/Blueprints/MyCharacter.MyCharacter)
+[2020.02.25-00.12.21:938][347]LogSlate: Window 'MyCharacter' being destroyed
+[2020.02.25-00.12.23:210][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.12.23:404][481]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-00.12.23:445][481]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FirstRoomPaul.FirstRoomPaul:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstRoomPaul.FirstRoomPaul:PersistentLevel.FirstRoomPaul' with GeneratedClass '/Game/Levels/FirstRoomPaul.FirstRoomPaul_C' with ClassGeneratedBy '/Game/Levels/FirstRoomPaul.FirstRoomPaul:PersistentLevel.FirstRoomPaul'
+[2020.02.25-00.12.23:445][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-00.12.23:517][481]PIE: New page: PIE session: FirstRoomPaul (Feb 24, 2020, 2:12:23 PM)
+[2020.02.25-00.12.23:560][481]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FirstRoomPaul
+[2020.02.25-00.12.23:594][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033518s)
+[2020.02.25-00.12.23:596][481]LogAIModule: Creating AISystem for world FirstRoomPaul
+[2020.02.25-00.12.23:596][481]LogPlayLevel: PIE: World Init took: (0.001337s)
+[2020.02.25-00.12.23:596][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FirstRoomPaul.FirstRoomPaul to /Game/Levels/UEDPIE_0_FirstRoomPaul.FirstRoomPaul (0.035647s)
+[2020.02.25-00.12.23:629][481]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.02.25-00.12.23:726][481]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-00.12.23:807][481]LogInit: FAudioDevice initialized.
+[2020.02.25-00.12.23:877][481]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-00.12.23:918][481]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FirstRoomPaul.FirstRoomPaul up for play (max tick rate 0) at 2020.02.24-19.12.23
+[2020.02.25-00.12.23:997][481]LogWorld: Bringing up level for play took: 0.079578
+[2020.02.25-00.12.24:145][481]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.02.25-00.12.24:206][481]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.02.25-00.12.24:206][481]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.02.25-00.12.24:241][481]Set new viewmode: Lit
+[2020.02.25-00.12.24:242][481]Set new viewmode: Unlit
+[2020.02.25-00.12.24:242][481]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FirstRoomPaul 1.777
+[2020.02.25-00.12.24:242][481]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FirstRoomPaul.FirstRoomPaul:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstRoomPaul.FirstRoomPaul:PersistentLevel.FirstRoomPaul' with GeneratedClass '/Game/Levels/FirstRoomPaul.FirstRoomPaul_C' with ClassGeneratedBy '/Game/Levels/FirstRoomPaul.FirstRoomPaul:PersistentLevel.FirstRoomPaul'
+[2020.02.25-00.12.46:074][916]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FirstRoomPaul.FirstRoomPaul:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstRoomPaul.FirstRoomPaul:PersistentLevel.FirstRoomPaul' with GeneratedClass '/Game/Levels/FirstRoomPaul.FirstRoomPaul_C' with ClassGeneratedBy '/Game/Levels/FirstRoomPaul.FirstRoomPaul:PersistentLevel.FirstRoomPaul'
+[2020.02.25-00.12.46:098][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.12.46:152][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-00.12.46:152][916]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FirstRoomPaul.FirstRoomPaul:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstRoomPaul.FirstRoomPaul:PersistentLevel.FirstRoomPaul' with GeneratedClass '/Game/Levels/FirstRoomPaul.FirstRoomPaul_C' with ClassGeneratedBy '/Game/Levels/FirstRoomPaul.FirstRoomPaul:PersistentLevel.FirstRoomPaul'
+[2020.02.25-00.12.46:193][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.12.46:233][916]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.02.25-00.12.46:261][917]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.02.25-00.12.49:668][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.12.58:860][236]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-00.12.58:868][236]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/FinalRoomAustin.FinalRoomAustin
+[2020.02.25-00.12.58:943][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.02.25-00.12.58:961][236]Cmd: MAP LOAD FILE="../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Content/Levels/FinalRoomAustin.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.25-00.12.58:961][236]LightingResults: New page: Lighting Build
+[2020.02.25-00.12.58:962][236]LoadErrors: New page: Loading map: FinalRoomAustin.umap
+[2020.02.25-00.12.58:962][236]MapCheck: New page: Map Check
+[2020.02.25-00.12.58:963][236]LightingResults: New page: Lighting Build
+[2020.02.25-00.12.58:991][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.02.25-00.12.59:113][236]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.25-00.12.59:147][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.02.25-00.12.59:163][236]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.25-00.12.59:164][236]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.117ms to complete.
+[2020.02.25-00.12.59:164][236]LogFileHelpers: Loading map 'FinalRoomAustin' took 0.220
+[2020.02.25-00.13.02:189][568]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-00.13.02:197][568]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.13.02:197][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-00.13.02:197][568]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 2:13:02 PM)
+[2020.02.25-00.13.02:197][568]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-00.13.02:200][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002546s)
+[2020.02.25-00.13.02:201][568]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-00.13.02:201][568]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2020.02.25-00.13.02:201][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.003538s)
+[2020.02.25-00.13.02:227][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.02.25-00.13.02:238][568]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-00.13.02:317][568]LogInit: FAudioDevice initialized.
+[2020.02.25-00.13.02:344][568]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-00.13.02:346][568]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 0) at 2020.02.24-19.13.02
+[2020.02.25-00.13.02:346][568]LogWorld: Bringing up level for play took: 0.000673
+[2020.02.25-00.13.02:360][568]Set new viewmode: Unlit
+[2020.02.25-00.13.02:360][568]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin -0.105
+[2020.02.25-00.13.02:361][568]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.13.13:767][846]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.13.13:768][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.13.13:798][846]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-00.13.13:798][846]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.13.13:828][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.13.13:832][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.02.25-00.13.13:877][848]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.02.25-00.13.15:159][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.13.15:269][  7]MapCheck: New page: Map Check
+[2020.02.25-00.13.15:298][  7]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.25-00.13.15:298][  7]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.25-00.13.15:475][  7]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2020.02.25-00.13.15:503][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.02.25-00.13.15:541][  7]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-00.13.15:619][  7]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-00.13.15:628][  7]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-00.13.16:349][  7]TextureStreamingBuild: Display: Compiling optional shaders took 0.836 seconds.
+[2020.02.25-00.13.16:457][  7]LogLevel: Display: Export Material TexCoord Scales took 0.108 seconds.
+[2020.02.25-00.13.16:478][  7]TextureStreamingBuild: Display: Build Texture Streaming took 0.008 seconds.
+[2020.02.25-00.13.16:504][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.02.25-00.13.16:524][  7]LightingResults: New page: Lighting Build - Feb 24, 2020, 2:13:16 PM
+[2020.02.25-00.13.16:766][  7]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.25-00.13.17:032][  7]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.25-00.13.17:055][  7]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.25-00.13.18:099][  7]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.25-00.13.18:099][  7]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16824
+[2020.02.25-00.13.27:117][  7]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.02.25-00.13.27:146][  7]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.25-00.13.27:146][  7]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.25-00.13.27:146][  7]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.25-00.13.27:146][  7]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.25-00.13.27:146][  7]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.25-00.13.27:486][  7]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.25-00.13.27:486][  7]MapCheck: New page: FinalRoomAustin - Feb 24, 2020, 2:13:27 PM
+[2020.02.25-00.13.27:506][  7]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.02.25-00.13.27:544][  7]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 57.442ms to complete.
+[2020.02.25-00.13.27:568][  7]LogEditorBuildUtils: Build time 0:12
+[2020.02.25-00.13.28:325][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2020.02.25-00.13.31:637][159]Job is a success!
+[2020.02.25-00.13.32:002][160]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.123s
+[2020.02.25-00.13.32:002][160]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.25-00.13.32:002][160]LogVolumetricLightmapImport:      BrickData 1260x5x5 = 1.1Mb
+[2020.02.25-00.13.32:002][160]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.25-00.13.32:002][160]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2020.02.25-00.13.32:002][160]LogVolumetricLightmapImport:          1: 3.6% covering 14.1% of volume
+[2020.02.25-00.13.32:002][160]LogVolumetricLightmapImport:          2: 96.0% covering 5.9% of volume
+[2020.02.25-00.13.32:411][160]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.02.25-00.13.32:411][160]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.02.25-00.13.32:411][160]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.02.25-00.13.32:411][160]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.02.25-00.13.32:411][160]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.02.25-00.13.32:411][160]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X128)
+[2020.02.25-00.13.32:472][160]Lightmass on MSI: 2.43 sec total, 218 ms importing, 7 ms setup, 457 ms photons, 1.72 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 11.9 sec total, 410 ms processing.
+[2020.02.25-00.13.32:492][160]LogStaticLightingSystem: FinalRoomAustin_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2020.02.25-00.13.32:542][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.02.25-00.13.32:558][160]LogStaticLightingSystem: Illumination: 15.9 sec (117 ms encoding lightmaps, 46 ms encoding shadowmaps)
+[2020.02.25-00.13.32:558][160]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.02.25-00.13.32:558][160]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.02.25-00.13.33:153][160]DumpUnbuiltLightIteractions
+[2020.02.25-00.13.33:153][160]Lights with unbuilt interactions: 0
+[2020.02.25-00.13.33:153][160]
+[2020.02.25-00.13.33:153][160]Primitives with unbuilt interactions: 0
+[2020.02.25-00.13.33:286][161]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.25-00.13.33:286][161]MapCheck: New page: FinalRoomAustin - Feb 24, 2020, 2:13:33 PM
+[2020.02.25-00.13.33:286][161]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.385ms to complete.
+[2020.02.25-00.13.34:305][253]LogSlate: Window 'Message Log' being destroyed
+[2020.02.25-00.13.34:315][253]LogSlate: Window 'Message Log' being destroyed
+[2020.02.25-00.13.35:154][338]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-00.13.35:165][338]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.13.35:165][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-00.13.35:165][338]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 2:13:35 PM)
+[2020.02.25-00.13.35:165][338]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-00.13.35:169][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003318s)
+[2020.02.25-00.13.35:171][338]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-00.13.35:171][338]LogPlayLevel: PIE: World Init took: (0.002476s)
+[2020.02.25-00.13.35:171][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.006238s)
+[2020.02.25-00.13.35:199][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.02.25-00.13.35:211][338]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-00.13.35:293][338]LogInit: FAudioDevice initialized.
+[2020.02.25-00.13.35:324][338]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-00.13.35:326][338]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 0) at 2020.02.24-19.13.35
+[2020.02.25-00.13.35:326][338]LogWorld: Bringing up level for play took: 0.000750
+[2020.02.25-00.13.35:339][338]Set new viewmode: Unlit
+[2020.02.25-00.13.35:340][338]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin 0.875
+[2020.02.25-00.13.35:340][338]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.16.31:728][456]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.16.31:729][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.16.31:763][456]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-00.16.31:763][456]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.16.31:798][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.16.31:802][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.02.25-00.16.31:853][458]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.02.25-00.16.36:492][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.25-00.16.48:447][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.16.58:465][148]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-00.16.58:477][148]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.16.58:477][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-00.16.58:478][148]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 2:16:58 PM)
+[2020.02.25-00.16.58:478][148]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-00.16.58:481][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002844s)
+[2020.02.25-00.16.58:482][148]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-00.16.58:482][148]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2020.02.25-00.16.58:482][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.004320s)
+[2020.02.25-00.16.58:509][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.02.25-00.16.58:521][148]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-00.16.58:679][148]LogInit: FAudioDevice initialized.
+[2020.02.25-00.16.58:708][148]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-00.16.58:710][148]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 0) at 2020.02.24-19.16.58
+[2020.02.25-00.16.58:710][148]LogWorld: Bringing up level for play took: 0.000677
+[2020.02.25-00.16.58:724][148]Set new viewmode: Unlit
+[2020.02.25-00.16.58:724][148]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin 0.259
+[2020.02.25-00.16.58:724][148]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.17.12:075][639]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.17.12:076][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.17.12:108][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-00.17.12:108][639]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.17.12:138][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.17.12:143][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.02.25-00.17.12:185][641]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.02.25-00.17.16:306][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.17.22:652][707]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-00.17.22:661][707]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.17.22:661][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-00.17.22:661][707]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 2:17:22 PM)
+[2020.02.25-00.17.22:661][707]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-00.17.22:666][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004089s)
+[2020.02.25-00.17.22:666][707]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-00.17.22:666][707]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2020.02.25-00.17.22:667][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.005147s)
+[2020.02.25-00.17.22:691][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.02.25-00.17.22:703][707]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-00.17.22:782][707]LogInit: FAudioDevice initialized.
+[2020.02.25-00.17.22:813][707]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-00.17.22:815][707]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 0) at 2020.02.24-19.17.22
+[2020.02.25-00.17.22:815][707]LogWorld: Bringing up level for play took: 0.000857
+[2020.02.25-00.17.22:828][707]Set new viewmode: Unlit
+[2020.02.25-00.17.22:828][707]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin 0.363
+[2020.02.25-00.17.22:829][707]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.17.39:694][640]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.17.39:694][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.17.39:725][640]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-00.17.39:725][640]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.17.39:758][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.17.39:762][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.02.25-00.17.39:806][642]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.25-00.17.41:596][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.17.45:921][309]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-00.17.45:930][309]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.17.45:930][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-00.17.45:930][309]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 2:17:45 PM)
+[2020.02.25-00.17.45:930][309]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-00.17.45:932][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002425s)
+[2020.02.25-00.17.45:933][309]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-00.17.45:933][309]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2020.02.25-00.17.45:933][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.003503s)
+[2020.02.25-00.17.45:958][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.02.25-00.17.45:970][309]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-00.17.46:051][309]LogInit: FAudioDevice initialized.
+[2020.02.25-00.17.46:083][309]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-00.17.46:085][309]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 0) at 2020.02.24-19.17.46
+[2020.02.25-00.17.46:085][309]LogWorld: Bringing up level for play took: 0.000906
+[2020.02.25-00.17.46:098][309]Set new viewmode: Unlit
+[2020.02.25-00.17.46:099][309]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin -0.366
+[2020.02.25-00.17.46:099][309]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.18.27:218][ 26]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.18.27:218][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.18.27:247][ 26]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-00.18.27:247][ 26]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.18.27:283][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.18.27:287][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.02.25-00.18.27:332][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.02.25-00.19.00:609][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.25-00.19.05:347][162]Cmd: DUPLICATE
+[2020.02.25-00.19.05:347][162]Cmd: ACTOR DUPLICATE
+[2020.02.25-00.19.19:104][267]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2020.02.25-00.19.19:676][306]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 2
+[2020.02.25-00.19.26:196][  1]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.25-00.19.26:693][ 38]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.25-00.19.26:954][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-00.19.27:328][ 76]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.25-00.19.27:436][ 84]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2020.02.25-00.19.28:872][211]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2020.02.25-00.19.30:874][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.19.49:202][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.20.19:006][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.20.25:633][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.20.30:539][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.20.35:719][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.20.41:220][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.20.41:421][547]LogActorFactory: Actor Factory created Cube
+[2020.02.25-00.20.43:965][797]LogActorFactory: Actor Factory created Cube
+[2020.02.25-00.20.54:092][740]LogEditorViewport: Clicking on Actor (context menu): PointLight (PointLight)
+[2020.02.25-00.20.54:226][740]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-00.20.55:258][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.02.25-00.20.55:907][923]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.02.25-00.21.01:617][479]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.02.25-00.21.04:583][811]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2020.02.25-00.21.09:640][291]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2020.02.25-00.21.12:976][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.02.25-00.21.14:437][747]Cmd: POLY SELECT ADJACENT WALLS
+[2020.02.25-00.21.22:647][719]Cmd: DUPLICATE
+[2020.02.25-00.21.22:647][719]Cmd: ACTOR DUPLICATE
+[2020.02.25-00.21.25:006][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.21.47:550][707]Cmd: DUPLICATE
+[2020.02.25-00.21.47:550][707]Cmd: ACTOR DUPLICATE
+[2020.02.25-00.21.58:477][830]Cmd: DUPLICATE
+[2020.02.25-00.21.58:477][830]Cmd: ACTOR DUPLICATE
+[2020.02.25-00.22.09:332][649]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.25-00.22.15:739][ 25]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.02.25-00.22.39:239][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.02.25-00.22.40:523][973]Cmd: DUPLICATE
+[2020.02.25-00.22.40:523][973]Cmd: ACTOR DUPLICATE
+[2020.02.25-00.22.41:113][  7]Cmd: DUPLICATE
+[2020.02.25-00.22.41:113][  7]Cmd: ACTOR DUPLICATE
+[2020.02.25-00.22.50:166][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.22.58:535][ 17]Cmd: DUPLICATE
+[2020.02.25-00.22.58:535][ 17]Cmd: ACTOR DUPLICATE
+[2020.02.25-00.23.10:782][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2020.02.25-00.23.12:068][799]Cmd: DUPLICATE
+[2020.02.25-00.23.12:068][799]Cmd: ACTOR DUPLICATE
+[2020.02.25-00.23.25:616][570]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube9)
+[2020.02.25-00.23.26:210][597]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ceiling)
+[2020.02.25-00.23.30:457][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.23.30:557][844]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-00.23.30:568][844]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.23.30:568][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-00.23.30:568][844]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 2:23:30 PM)
+[2020.02.25-00.23.30:568][844]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-00.23.30:573][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005005s)
+[2020.02.25-00.23.30:575][844]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-00.23.30:575][844]LogPlayLevel: PIE: World Init took: (0.001610s)
+[2020.02.25-00.23.30:575][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.007248s)
+[2020.02.25-00.23.30:606][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.02.25-00.23.30:622][844]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-00.23.30:808][844]LogInit: FAudioDevice initialized.
+[2020.02.25-00.23.30:842][844]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-00.23.30:845][844]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 60) at 2020.02.24-19.23.30
+[2020.02.25-00.23.30:845][844]LogWorld: Bringing up level for play took: 0.001891
+[2020.02.25-00.23.30:859][844]Set new viewmode: Unlit
+[2020.02.25-00.23.30:859][844]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin 0.395
+[2020.02.25-00.23.30:860][844]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.23.33:998][ 31]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.23.33:998][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.23.34:031][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-00.23.34:031][ 31]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.23.34:067][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.23.34:071][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.02.25-00.23.34:136][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.02.25-00.23.35:487][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.23.35:587][120]MapCheck: New page: Map Check
+[2020.02.25-00.23.35:616][120]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.25-00.23.35:616][120]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.25-00.23.35:773][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.02.25-00.23.35:788][120]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-00.23.35:796][120]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-00.23.35:806][120]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-00.23.36:752][120]TextureStreamingBuild: Display: Compiling optional shaders took 0.967 seconds.
+[2020.02.25-00.23.36:758][120]LogLevel: Display: Export Material TexCoord Scales took 0.006 seconds.
+[2020.02.25-00.23.36:771][120]TextureStreamingBuild: Display: Build Texture Streaming took 0.013 seconds.
+[2020.02.25-00.23.36:800][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.02.25-00.23.36:800][120]LightingResults: New page: Lighting Build - Feb 24, 2020, 2:23:36 PM
+[2020.02.25-00.23.36:809][120]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.25-00.23.36:814][120]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.25-00.23.36:814][120]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.25-00.23.36:815][120]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.25-00.23.36:815][120]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16824
+[2020.02.25-00.23.41:429][120]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.02.25-00.23.41:429][120]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.25-00.23.41:429][120]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.25-00.23.41:429][120]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.25-00.23.41:429][120]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.25-00.23.41:429][120]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.25-00.23.41:639][120]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.25-00.23.41:639][120]MapCheck: New page: FinalRoomAustin - Feb 24, 2020, 2:23:41 PM
+[2020.02.25-00.23.41:658][120]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.02.25-00.23.41:658][120]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 19.033ms to complete.
+[2020.02.25-00.23.41:682][120]LogEditorBuildUtils: Build time 0:06
+[2020.02.25-00.23.41:928][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.02.25-00.23.47:322][338]Job is a success!
+[2020.02.25-00.23.47:435][339]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.048s
+[2020.02.25-00.23.47:435][339]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.25-00.23.47:435][339]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.3Mb
+[2020.02.25-00.23.47:436][339]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.25-00.23.47:436][339]LogVolumetricLightmapImport:          0: 0.3% covering 100.0% of volume
+[2020.02.25-00.23.47:436][339]LogVolumetricLightmapImport:          1: 2.4% covering 14.1% of volume
+[2020.02.25-00.23.47:436][339]LogVolumetricLightmapImport:          2: 97.3% covering 8.9% of volume
+[2020.02.25-00.23.47:454][339]LightingResults: Warning: PointLight2_4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.02.25-00.23.47:559][339]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2020.02.25-00.23.47:559][339]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.02.25-00.23.47:559][339]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2020.02.25-00.23.47:559][339]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.02.25-00.23.47:559][339]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.02.25-00.23.47:559][339]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 512X128)
+[2020.02.25-00.23.47:589][339]Lightmass on MSI: 3.44 sec total, 185 ms importing, 8 ms setup, 588 ms photons, 2.63 sec processing, 0 ms extra exporting [11/11 mappings]. Threads: 18.2 sec total, 2.91 sec processing.
+[2020.02.25-00.23.47:592][339]LogStaticLightingSystem: FinalRoomAustin_BuiltData storing lightmap data for 11 meshes in 3 LightmapResourceClusters (3.7 Meshes per cluster).
+[2020.02.25-00.23.47:629][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.02.25-00.23.47:641][339]LogStaticLightingSystem: Illumination: 10.8 sec (82 ms encoding lightmaps, 16 ms encoding shadowmaps)
+[2020.02.25-00.23.47:642][339]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.02.25-00.23.47:642][339]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.02.25-00.23.48:439][339]DumpUnbuiltLightIteractions
+[2020.02.25-00.23.48:439][339]Lights with unbuilt interactions: 0
+[2020.02.25-00.23.48:439][339]
+[2020.02.25-00.23.48:439][339]Primitives with unbuilt interactions: 0
+[2020.02.25-00.23.48:444][339]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-00.23.48:564][340]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.25-00.23.48:564][340]MapCheck: New page: FinalRoomAustin - Feb 24, 2020, 2:23:48 PM
+[2020.02.25-00.23.48:565][340]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.571ms to complete.
+[2020.02.25-00.23.52:428][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.23.53:906][658]LogSlate: Window 'Message Log' being destroyed
+[2020.02.25-00.23.53:913][658]LogSlate: Window 'Message Log' being destroyed
+[2020.02.25-00.23.54:606][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.23.54:706][706]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-00.23.54:714][706]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.23.54:714][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-00.23.54:714][706]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 2:23:54 PM)
+[2020.02.25-00.23.54:715][706]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-00.23.54:718][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003164s)
+[2020.02.25-00.23.54:719][706]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-00.23.54:719][706]LogPlayLevel: PIE: World Init took: (0.001284s)
+[2020.02.25-00.23.54:719][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.004663s)
+[2020.02.25-00.23.54:745][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.02.25-00.23.54:761][706]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-00.23.54:842][706]LogInit: FAudioDevice initialized.
+[2020.02.25-00.23.54:874][706]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-00.23.54:876][706]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 60) at 2020.02.24-19.23.54
+[2020.02.25-00.23.54:876][706]LogWorld: Bringing up level for play took: 0.001148
+[2020.02.25-00.23.54:889][706]Set new viewmode: Unlit
+[2020.02.25-00.23.54:889][706]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin 0.425
+[2020.02.25-00.23.54:890][706]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.24.23:344][408]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.24.23:345][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.24.23:377][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-00.24.23:378][408]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.24.23:410][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.24.23:414][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.02.25-00.24.23:476][410]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.02.25-00.24.33:681][ 17]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.02.25-00.24.37:386][225]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-00.24.42:969][552]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.25-00.24.47:357][813]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-00.24.52:691][132]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.25-00.24.53:779][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.25.03:112][754]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.25-00.25.04:686][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.25.11:286][241]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.25-00.25.12:828][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.25.25:408][ 85]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.25-00.25.43:627][171]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.25-00.25.48:178][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.25.48:295][446]MapCheck: New page: Map Check
+[2020.02.25-00.25.48:321][446]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.25-00.25.48:321][446]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.25-00.25.48:498][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.02.25-00.25.48:513][446]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-00.25.48:521][446]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-00.25.48:529][446]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-00.25.49:213][446]TextureStreamingBuild: Display: Compiling optional shaders took 0.705 seconds.
+[2020.02.25-00.25.49:217][446]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2020.02.25-00.25.49:229][446]TextureStreamingBuild: Display: Build Texture Streaming took 0.012 seconds.
+[2020.02.25-00.25.49:257][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.02.25-00.25.49:257][446]LightingResults: New page: Lighting Build - Feb 24, 2020, 2:25:49 PM
+[2020.02.25-00.25.49:266][446]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.25-00.25.49:269][446]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.25-00.25.49:269][446]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.25-00.25.49:270][446]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.25-00.25.49:270][446]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16824
+[2020.02.25-00.25.53:780][446]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.02.25-00.25.53:780][446]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.25-00.25.53:780][446]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.25-00.25.53:781][446]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.25-00.25.53:781][446]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.25-00.25.53:781][446]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.25-00.25.53:994][446]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.25-00.25.53:994][446]MapCheck: New page: FinalRoomAustin - Feb 24, 2020, 2:25:53 PM
+[2020.02.25-00.25.54:010][446]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.02.25-00.25.54:010][446]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 16.084ms to complete.
+[2020.02.25-00.25.54:035][446]LogEditorBuildUtils: Build time 0:05
+[2020.02.25-00.25.54:041][446]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-00.25.54:345][450]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.02.25-00.25.58:448][654]Job is a success!
+[2020.02.25-00.25.58:618][655]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.047s
+[2020.02.25-00.25.58:618][655]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.25-00.25.58:618][655]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.3Mb
+[2020.02.25-00.25.58:618][655]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.25-00.25.58:618][655]LogVolumetricLightmapImport:          0: 0.3% covering 100.0% of volume
+[2020.02.25-00.25.58:618][655]LogVolumetricLightmapImport:          1: 2.4% covering 14.1% of volume
+[2020.02.25-00.25.58:618][655]LogVolumetricLightmapImport:          2: 97.3% covering 8.9% of volume
+[2020.02.25-00.25.58:635][655]LightingResults: Warning: PointLight2_4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.02.25-00.25.58:744][655]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2020.02.25-00.25.58:744][655]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2020.02.25-00.25.58:744][655]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.02.25-00.25.58:744][655]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.02.25-00.25.58:744][655]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2020.02.25-00.25.58:744][655]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 512X128)
+[2020.02.25-00.25.58:776][655]Lightmass on MSI: 3.32 sec total, 180 ms importing, 7 ms setup, 578 ms photons, 2.53 sec processing, 0 ms extra exporting [11/11 mappings]. Threads: 17.5 sec total, 2.80 sec processing.
+[2020.02.25-00.25.58:777][655]LogStaticLightingSystem: FinalRoomAustin_BuiltData storing lightmap data for 11 meshes in 3 LightmapResourceClusters (3.7 Meshes per cluster).
+[2020.02.25-00.25.58:813][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.02.25-00.25.58:825][655]LogStaticLightingSystem: Illumination: 9.55 sec (83 ms encoding lightmaps, 20 ms encoding shadowmaps)
+[2020.02.25-00.25.58:825][655]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.02.25-00.25.58:825][655]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.02.25-00.25.59:793][655]DumpUnbuiltLightIteractions
+[2020.02.25-00.25.59:793][655]Lights with unbuilt interactions: 0
+[2020.02.25-00.25.59:793][655]
+[2020.02.25-00.25.59:793][655]Primitives with unbuilt interactions: 0
+[2020.02.25-00.25.59:797][655]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-00.25.59:901][656]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.25-00.25.59:901][656]MapCheck: New page: FinalRoomAustin - Feb 24, 2020, 2:25:59 PM
+[2020.02.25-00.25.59:902][656]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.802ms to complete.
+[2020.02.25-00.26.06:443][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.26.16:586][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.27.32:670][660]LogSlate: Window 'Message Log' being destroyed
+[2020.02.25-00.27.32:677][660]LogSlate: Window 'Message Log' being destroyed
+[2020.02.25-00.27.43:088][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.27.50:078][697]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2020.02.25-00.27.51:168][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.27.52:668][850]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2020.02.25-00.27.53:891][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.27.55:810][ 36]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.02.25-00.27.56:718][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.28.18:366][328]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.02.25-00.28.19:354][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.28.20:538][455]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2020.02.25-00.28.21:508][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.28.21:921][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.02.25-00.28.22:608][530]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/FinalRoomAustin_Auto1D1826EF94DB6A771432BEAA282050F1B.tmp' to '../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/Autosaves/Game/Levels/FinalRoomAustin_Auto1.umap'
+[2020.02.25-00.28.22:658][530]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/FinalRoomAustin' took 0.769
+[2020.02.25-00.28.22:658][530]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.769
+[2020.02.25-00.28.22:846][538]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2020.02.25-00.28.23:936][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.28.25:367][686]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.02.25-00.28.26:448][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.29.38:119][ 21]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-00.29.38:127][ 21]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.29.38:127][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-00.29.38:128][ 21]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 2:29:38 PM)
+[2020.02.25-00.29.38:128][ 21]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-00.29.38:131][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003555s)
+[2020.02.25-00.29.38:132][ 21]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-00.29.38:132][ 21]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2020.02.25-00.29.38:133][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.004917s)
+[2020.02.25-00.29.38:160][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.02.25-00.29.38:176][ 21]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-00.29.38:260][ 21]LogInit: FAudioDevice initialized.
+[2020.02.25-00.29.38:289][ 21]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-00.29.38:291][ 21]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 60) at 2020.02.24-19.29.38
+[2020.02.25-00.29.38:292][ 21]LogWorld: Bringing up level for play took: 0.001353
+[2020.02.25-00.29.38:306][ 21]Set new viewmode: Unlit
+[2020.02.25-00.29.38:306][ 21]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin -0.16
+[2020.02.25-00.29.38:306][ 21]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.29.41:289][199]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.29.41:290][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.29.41:317][199]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-00.29.41:317][199]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.29.41:350][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.29.41:355][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.02.25-00.29.41:395][201]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.02.25-00.29.42:644][276]MapCheck: New page: Map Check
+[2020.02.25-00.29.42:669][276]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.25-00.29.42:670][276]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.25-00.29.42:871][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.02.25-00.29.42:886][276]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-00.29.42:894][276]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-00.29.42:902][276]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.25-00.29.43:597][276]TextureStreamingBuild: Display: Compiling optional shaders took 0.715 seconds.
+[2020.02.25-00.29.43:601][276]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2020.02.25-00.29.43:613][276]TextureStreamingBuild: Display: Build Texture Streaming took 0.012 seconds.
+[2020.02.25-00.29.43:641][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.02.25-00.29.43:641][276]LightingResults: New page: Lighting Build - Feb 24, 2020, 2:29:43 PM
+[2020.02.25-00.29.43:650][276]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.25-00.29.43:653][276]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.25-00.29.43:653][276]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.25-00.29.43:654][276]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.25-00.29.43:654][276]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16824
+[2020.02.25-00.29.48:162][276]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.02.25-00.29.48:162][276]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.25-00.29.48:162][276]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.25-00.29.48:162][276]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.25-00.29.48:162][276]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.25-00.29.48:162][276]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.25-00.29.48:368][276]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.25-00.29.48:368][276]MapCheck: New page: FinalRoomAustin - Feb 24, 2020, 2:29:48 PM
+[2020.02.25-00.29.48:382][276]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.02.25-00.29.48:382][276]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 14.469ms to complete.
+[2020.02.25-00.29.48:406][276]LogEditorBuildUtils: Build time 0:05
+[2020.02.25-00.29.48:431][276]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-00.29.48:655][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.02.25-00.29.52:837][492]Job is a success!
+[2020.02.25-00.29.52:992][493]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.049s
+[2020.02.25-00.29.52:992][493]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.25-00.29.52:992][493]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.3Mb
+[2020.02.25-00.29.52:992][493]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.25-00.29.52:992][493]LogVolumetricLightmapImport:          0: 0.3% covering 100.0% of volume
+[2020.02.25-00.29.52:992][493]LogVolumetricLightmapImport:          1: 2.4% covering 14.1% of volume
+[2020.02.25-00.29.52:992][493]LogVolumetricLightmapImport:          2: 97.3% covering 8.9% of volume
+[2020.02.25-00.29.53:112][493]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2020.02.25-00.29.53:112][493]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.02.25-00.29.53:112][493]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2020.02.25-00.29.53:112][493]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.02.25-00.29.53:112][493]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2020.02.25-00.29.53:112][493]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 512X128)
+[2020.02.25-00.29.53:142][493]Lightmass on MSI: 3.33 sec total, 173 ms importing, 10 ms setup, 689 ms photons, 2.44 sec processing, 0 ms extra exporting [11/11 mappings]. Threads: 16.9 sec total, 2.31 sec processing.
+[2020.02.25-00.29.53:142][493]LogStaticLightingSystem: FinalRoomAustin_BuiltData storing lightmap data for 11 meshes in 3 LightmapResourceClusters (3.7 Meshes per cluster).
+[2020.02.25-00.29.53:177][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.02.25-00.29.53:187][493]LogStaticLightingSystem: Illumination: 9.53 sec (80 ms encoding lightmaps, 15 ms encoding shadowmaps)
+[2020.02.25-00.29.53:187][493]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.02.25-00.29.53:187][493]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.02.25-00.29.54:172][493]DumpUnbuiltLightIteractions
+[2020.02.25-00.29.54:172][493]Lights with unbuilt interactions: 0
+[2020.02.25-00.29.54:172][493]
+[2020.02.25-00.29.54:172][493]Primitives with unbuilt interactions: 0
+[2020.02.25-00.29.54:178][493]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-00.29.54:276][494]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.25-00.29.54:277][494]MapCheck: New page: FinalRoomAustin - Feb 24, 2020, 2:29:54 PM
+[2020.02.25-00.29.54:277][494]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.491ms to complete.
+[2020.02.25-00.29.55:783][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.29.55:880][590]LogSlate: Window 'Message Log' being destroyed
+[2020.02.25-00.29.55:886][590]LogSlate: Window 'Message Log' being destroyed
+[2020.02.25-00.30.37:515][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-00.30.37:581][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.02.25-00.30.37:784][ 83]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/FinalRoomAustin28A6C1AB42635F384B23459BA2C7F381.tmp' to '../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Content/Levels/FinalRoomAustin.umap'
+[2020.02.25-00.30.38:284][ 83]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/FinalRoomAustin_BuiltDataE8F0B1C04F59B3F74969E59822AD0335.tmp' to '../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Content/Levels/FinalRoomAustin_BuiltData.uasset'
+[2020.02.25-00.30.40:491][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.30.40:606][219]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-00.30.40:614][219]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.30.40:615][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-00.30.40:615][219]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 2:30:40 PM)
+[2020.02.25-00.30.40:615][219]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-00.30.40:619][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004647s)
+[2020.02.25-00.30.40:621][219]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-00.30.40:621][219]LogPlayLevel: PIE: World Init took: (0.001439s)
+[2020.02.25-00.30.40:621][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.006332s)
+[2020.02.25-00.30.40:653][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.02.25-00.30.40:666][219]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-00.30.40:745][219]LogInit: FAudioDevice initialized.
+[2020.02.25-00.30.40:776][219]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-00.30.40:778][219]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 60) at 2020.02.24-19.30.40
+[2020.02.25-00.30.40:778][219]LogWorld: Bringing up level for play took: 0.001276
+[2020.02.25-00.30.40:791][219]Set new viewmode: Unlit
+[2020.02.25-00.30.40:792][219]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin 0.326
+[2020.02.25-00.30.40:792][219]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.30.44:155][419]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.30.44:155][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.30.44:185][419]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-00.30.44:185][419]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.30.44:217][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.30.44:221][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.02.25-00.30.44:265][421]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.02.25-00.30.54:644][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-00.30.56:223][129]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-00.30.56:852][167]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-00.30.56:862][167]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.30.56:862][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-00.30.56:862][167]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 2:30:56 PM)
+[2020.02.25-00.30.56:862][167]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-00.30.56:866][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003405s)
+[2020.02.25-00.30.56:866][167]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-00.30.56:867][167]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2020.02.25-00.30.56:867][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.004674s)
+[2020.02.25-00.30.56:893][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.02.25-00.30.56:904][167]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-00.30.56:983][167]LogInit: FAudioDevice initialized.
+[2020.02.25-00.30.57:015][167]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-00.30.57:017][167]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 60) at 2020.02.24-19.30.57
+[2020.02.25-00.30.57:017][167]LogWorld: Bringing up level for play took: 0.001285
+[2020.02.25-00.30.57:032][167]Set new viewmode: Unlit
+[2020.02.25-00.30.57:032][167]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin 0.568
+[2020.02.25-00.30.57:033][167]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.31.02:221][477]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.31.02:221][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.31.02:253][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-00.31.02:253][477]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.31.02:285][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.31.02:289][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.02.25-00.31.02:328][479]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.02.25-00.32.54:865][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.32.55:015][926]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-00.32.55:025][926]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.32.55:025][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-00.32.55:025][926]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 2:32:55 PM)
+[2020.02.25-00.32.55:025][926]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-00.32.55:029][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003538s)
+[2020.02.25-00.32.55:030][926]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-00.32.55:030][926]LogPlayLevel: PIE: World Init took: (0.001194s)
+[2020.02.25-00.32.55:030][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.005009s)
+[2020.02.25-00.32.55:058][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.02.25-00.32.55:069][926]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-00.32.55:148][926]LogInit: FAudioDevice initialized.
+[2020.02.25-00.32.55:181][926]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-00.32.55:183][926]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 60) at 2020.02.24-19.32.55
+[2020.02.25-00.32.55:184][926]LogWorld: Bringing up level for play took: 0.001862
+[2020.02.25-00.32.55:198][926]Set new viewmode: Unlit
+[2020.02.25-00.32.55:198][926]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin 0.733
+[2020.02.25-00.32.55:198][926]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.32.58:026][ 92]Set new viewmode: Lit
+[2020.02.25-00.33.04:315][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.33.04:317][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.33.04:351][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-00.33.04:351][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.33.04:383][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.33.04:387][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.02.25-00.33.04:445][471]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.02.25-00.33.14:368][ 59]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.02.25-00.33.15:786][132]Cmd: DELETE
+[2020.02.25-00.33.15:786][132]Cmd: ACTOR DELETE
+[2020.02.25-00.33.15:834][132]LogEditorActor: Deleted Actor: SkyLight
+[2020.02.25-00.33.15:859][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.02.25-00.33.15:859][132]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2020.02.25-00.33.22:135][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.33.24:489][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.33.34:374][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.33.47:991][ 39]Cmd: DELETE
+[2020.02.25-00.33.47:991][ 39]Cmd: ACTOR DELETE
+[2020.02.25-00.33.47:993][ 39]LogEditorActor: Deleted Actor: SpotLight
+[2020.02.25-00.33.48:022][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.02.25-00.33.48:022][ 39]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.02.25-00.34.00:592][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.34.03:901][965]Cmd: DELETE
+[2020.02.25-00.34.03:901][965]Cmd: ACTOR DELETE
+[2020.02.25-00.34.03:904][965]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.02.25-00.34.03:929][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.02.25-00.34.03:930][965]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.02.25-00.34.05:537][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.34.16:873][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.34.22:001][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.34.22:118][ 48]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-00.34.22:126][ 48]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.34.22:127][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-00.34.22:127][ 48]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 2:34:22 PM)
+[2020.02.25-00.34.22:127][ 48]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-00.34.22:132][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005458s)
+[2020.02.25-00.34.22:133][ 48]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-00.34.22:133][ 48]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2020.02.25-00.34.22:134][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.006781s)
+[2020.02.25-00.34.22:162][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.02.25-00.34.22:174][ 48]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-00.34.22:256][ 48]LogInit: FAudioDevice initialized.
+[2020.02.25-00.34.22:289][ 48]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-00.34.22:291][ 48]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 60) at 2020.02.24-19.34.22
+[2020.02.25-00.34.22:291][ 48]LogWorld: Bringing up level for play took: 0.001342
+[2020.02.25-00.34.22:306][ 48]Set new viewmode: Unlit
+[2020.02.25-00.34.22:306][ 48]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin -0.16
+[2020.02.25-00.34.22:306][ 48]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.34.24:804][196]Set new viewmode: Lit
+[2020.02.25-00.34.31:739][612]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.34.31:740][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.34.31:774][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-00.34.31:774][612]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.34.31:807][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.34.31:810][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.02.25-00.34.31:868][614]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.02.25-00.34.34:617][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2020.02.25-00.34.35:560][826]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.02.25-00.34.37:968][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.34.53:898][916]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.25-00.35.05:449][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.35.05:544][606]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-00.35.05:557][606]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.35.05:558][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-00.35.05:558][606]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 2:35:05 PM)
+[2020.02.25-00.35.05:558][606]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-00.35.05:562][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004240s)
+[2020.02.25-00.35.05:563][606]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-00.35.05:564][606]LogPlayLevel: PIE: World Init took: (0.001394s)
+[2020.02.25-00.35.05:564][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.005840s)
+[2020.02.25-00.35.05:589][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.02.25-00.35.05:601][606]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-00.35.05:682][606]LogInit: FAudioDevice initialized.
+[2020.02.25-00.35.05:711][606]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-00.35.05:713][606]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 60) at 2020.02.24-19.35.05
+[2020.02.25-00.35.05:714][606]LogWorld: Bringing up level for play took: 0.001547
+[2020.02.25-00.35.05:727][606]Set new viewmode: Unlit
+[2020.02.25-00.35.05:728][606]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin -0.738
+[2020.02.25-00.35.05:728][606]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.35.08:120][748]Set new viewmode: Lit
+[2020.02.25-00.35.34:461][327]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.35.34:462][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.35.34:495][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-00.35.34:495][327]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.35.34:529][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.35.34:533][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.02.25-00.35.34:581][329]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.02.25-00.35.52:799][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.02.25-00.35.55:480][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.36.04:657][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.02.25-00.36.04:853][702]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/FinalRoomAustinD82143444A965DAA6FAB2C8F50185C84.tmp' to '../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Content/Levels/FinalRoomAustin.umap'
+[2020.02.25-00.36.04:939][702]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/FinalRoomAustin_BuiltData2BF7390E48A428D9A73D188F86984AEB.tmp' to '../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Content/Levels/FinalRoomAustin_BuiltData.uasset'
+[2020.02.25-00.36.06:004][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.36.10:508][ 34]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-00.36.10:517][ 34]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.36.10:517][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-00.36.10:517][ 34]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 2:36:10 PM)
+[2020.02.25-00.36.10:517][ 34]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-00.36.10:522][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005394s)
+[2020.02.25-00.36.10:523][ 34]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-00.36.10:524][ 34]LogPlayLevel: PIE: World Init took: (0.001288s)
+[2020.02.25-00.36.10:524][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.006925s)
+[2020.02.25-00.36.10:554][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.02.25-00.36.10:567][ 34]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-00.36.10:650][ 34]LogInit: FAudioDevice initialized.
+[2020.02.25-00.36.10:678][ 34]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-00.36.10:679][ 34]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 60) at 2020.02.24-19.36.10
+[2020.02.25-00.36.10:679][ 34]LogWorld: Bringing up level for play took: 0.001117
+[2020.02.25-00.36.10:693][ 34]Set new viewmode: Unlit
+[2020.02.25-00.36.10:693][ 34]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin 0.228
+[2020.02.25-00.36.10:693][ 34]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.36.20:823][640]Set new viewmode: Lit
+[2020.02.25-00.37.31:857][900]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.37.31:858][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.37.31:888][900]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-00.37.31:888][900]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.37.31:920][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.37.31:925][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.02.25-00.37.31:984][902]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.02.25-00.37.32:807][951]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-00.37.32:859][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.02.25-00.37.33:015][951]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/FinalRoomAustinAD11778E4860C7360395398A3A0AFFC5.tmp' to '../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Content/Levels/FinalRoomAustin.umap'
+[2020.02.25-00.37.33:070][951]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/FinalRoomAustin_BuiltData82544F7C479C2333F134D8B8971986EE.tmp' to '../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Content/Levels/FinalRoomAustin_BuiltData.uasset'
+[2020.02.25-00.37.47:835][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.37.47:968][671]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-00.37.47:977][671]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.37.47:977][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-00.37.47:978][671]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 2:37:47 PM)
+[2020.02.25-00.37.47:978][671]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-00.37.47:983][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004633s)
+[2020.02.25-00.37.47:984][671]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-00.37.47:984][671]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2020.02.25-00.37.47:984][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.005848s)
+[2020.02.25-00.37.48:013][671]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.02.25-00.37.48:024][671]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-00.37.48:105][671]LogInit: FAudioDevice initialized.
+[2020.02.25-00.37.48:137][671]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-00.37.48:139][671]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 60) at 2020.02.24-19.37.48
+[2020.02.25-00.37.48:139][671]LogWorld: Bringing up level for play took: 0.001214
+[2020.02.25-00.37.48:153][671]Set new viewmode: Unlit
+[2020.02.25-00.37.48:153][671]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin -0.312
+[2020.02.25-00.37.48:153][671]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.38.12:324][119]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.38.12:324][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.38.12:358][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-00.38.12:358][119]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.38.12:392][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.38.12:396][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.02.25-00.38.12:450][121]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.02.25-00.38.14:145][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.38.14:312][229]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-00.38.14:320][229]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.38.14:320][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-00.38.14:320][229]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 2:38:14 PM)
+[2020.02.25-00.38.14:320][229]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-00.38.14:326][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005870s)
+[2020.02.25-00.38.14:327][229]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-00.38.14:328][229]LogPlayLevel: PIE: World Init took: (0.001210s)
+[2020.02.25-00.38.14:328][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.007258s)
+[2020.02.25-00.38.14:352][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.02.25-00.38.14:364][229]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-00.38.14:444][229]LogInit: FAudioDevice initialized.
+[2020.02.25-00.38.14:477][229]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-00.38.14:479][229]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 60) at 2020.02.24-19.38.14
+[2020.02.25-00.38.14:479][229]LogWorld: Bringing up level for play took: 0.001186
+[2020.02.25-00.38.14:493][229]Set new viewmode: Unlit
+[2020.02.25-00.38.14:493][229]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin 0.028
+[2020.02.25-00.38.14:493][229]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.38.15:648][297]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.38.15:648][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.38.15:681][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-00.38.15:681][297]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.38.15:712][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.38.15:716][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.02.25-00.38.15:757][299]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.02.25-00.40.53:040][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.40.53:106][287]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-00.40.53:116][287]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.40.53:117][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-00.40.53:117][287]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 2:40:53 PM)
+[2020.02.25-00.40.53:117][287]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-00.40.53:121][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003844s)
+[2020.02.25-00.40.53:123][287]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-00.40.53:123][287]LogPlayLevel: PIE: World Init took: (0.001644s)
+[2020.02.25-00.40.53:123][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.005730s)
+[2020.02.25-00.40.53:148][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.02.25-00.40.53:161][287]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-00.40.53:244][287]LogInit: FAudioDevice initialized.
+[2020.02.25-00.40.53:277][287]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-00.40.53:279][287]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 60) at 2020.02.24-19.40.53
+[2020.02.25-00.40.53:279][287]LogWorld: Bringing up level for play took: 0.001046
+[2020.02.25-00.40.53:293][287]Set new viewmode: Unlit
+[2020.02.25-00.40.53:293][287]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin 0.828
+[2020.02.25-00.40.53:293][287]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.40.54:685][369]Set new viewmode: Lit
+[2020.02.25-00.40.57:502][538]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.40.57:503][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.40.57:535][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-00.40.57:535][538]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.40.57:572][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.40.57:576][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.02.25-00.40.57:626][540]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.02.25-00.41.01:452][763]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.02.25-00.41.05:773][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.41.22:199][997]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.25-00.41.25:801][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2020.02.25-00.41.27:710][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.41.48:756][524]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.25-00.41.49:922][592]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2020.02.25-00.41.52:353][728]LogLinker: Warning: Can't find file '/Game/Blueprints/Test'
+[2020.02.25-00.41.52:353][728]LogLinker: Warning: Can't find file '/Game/Blueprints/Test'
+[2020.02.25-00.41.52:353][728]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Blueprints/Test.Test_C'
+[2020.02.25-00.41.52:388][728]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-00.41.54:316][831]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-00.41.54:323][831]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin
+[2020.02.25-00.42.34:746][159]BlueprintLog: New page: Compile FinalRoomAustin
+[2020.02.25-00.42.34:915][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.02.25-00.42.35:808][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.02.25-00.42.36:061][206]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/FinalRoomAustinBAD9CA7F43580A4CD2A1F6B97C4F0142.tmp' to '../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Content/Levels/FinalRoomAustin.umap'
+[2020.02.25-00.42.36:085][206]LogFileHelpers: Saving map 'FinalRoomAustin' took 0.325
+[2020.02.25-00.42.37:094][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.42.37:850][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.42.38:367][340]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-00.42.38:379][340]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.42.38:379][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-00.42.38:379][340]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 2:42:38 PM)
+[2020.02.25-00.42.38:379][340]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-00.42.38:383][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004317s)
+[2020.02.25-00.42.38:384][340]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-00.42.38:385][340]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2020.02.25-00.42.38:385][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.005701s)
+[2020.02.25-00.42.38:417][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.02.25-00.42.38:438][340]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-00.42.38:537][340]LogInit: FAudioDevice initialized.
+[2020.02.25-00.42.38:565][340]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-00.42.38:567][340]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 60) at 2020.02.24-19.42.38
+[2020.02.25-00.42.38:568][340]LogWorld: Bringing up level for play took: 0.001359
+[2020.02.25-00.42.38:582][340]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin 0.117
+[2020.02.25-00.42.38:582][340]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.42.46:744][824]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.42.46:744][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.42.46:778][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-00.42.46:778][824]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.42.46:817][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.42.46:822][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.02.25-00.42.46:846][825]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.02.25-00.42.49:595][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.43.00:102][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.43.12:632][349]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.25-00.43.19:523][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.45.58:641][288]BlueprintLog: New page: Compile FinalRoomAustin
+[2020.02.25-00.45.58:892][288]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.02.25-00.45.59:930][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.02.25-00.46.00:283][346]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/FinalRoomAustin55500F334E1A8FB6B24B158EDB28B26F.tmp' to '../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Content/Levels/FinalRoomAustin.umap'
+[2020.02.25-00.46.00:305][346]LogFileHelpers: Saving map 'FinalRoomAustin' took 0.411
+[2020.02.25-00.46.02:566][480]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-00.46.02:576][480]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.46.02:576][480]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-00.46.02:576][480]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 2:46:02 PM)
+[2020.02.25-00.46.02:576][480]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-00.46.02:580][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003890s)
+[2020.02.25-00.46.02:581][480]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-00.46.02:582][480]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2020.02.25-00.46.02:582][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.005174s)
+[2020.02.25-00.46.02:616][480]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.02.25-00.46.02:629][480]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-00.46.02:710][480]LogInit: FAudioDevice initialized.
+[2020.02.25-00.46.02:740][480]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-00.46.02:742][480]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 60) at 2020.02.24-19.46.02
+[2020.02.25-00.46.02:743][480]LogWorld: Bringing up level for play took: 0.001329
+[2020.02.25-00.46.02:757][480]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin 0.292
+[2020.02.25-00.46.02:757][480]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.46.09:594][883]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.46.09:594][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.46.09:625][883]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-00.46.09:625][883]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.46.09:660][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.46.09:664][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.02.25-00.46.09:721][885]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.02.25-00.46.10:806][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-00.46.24:049][332]BlueprintLog: New page: Compile FinalRoomAustin
+[2020.02.25-00.46.24:195][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.02.25-00.46.25:199][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.02.25-00.46.25:514][387]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Saved/FinalRoomAustin3B5776EF407A43BF28DBDF9DEAC4A426.tmp' to '../../../../../../Documents/Unreal Projects/First-Dungeon-Assignment/DungeonLevel/Content/Levels/FinalRoomAustin.umap'
+[2020.02.25-00.46.25:542][387]LogFileHelpers: Saving map 'FinalRoomAustin' took 0.378
+[2020.02.25-00.46.27:191][484]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-00.46.27:200][484]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.46.27:200][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-00.46.27:200][484]PIE: New page: PIE session: FinalRoomAustin (Feb 24, 2020, 2:46:27 PM)
+[2020.02.25-00.46.27:200][484]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FinalRoomAustin
+[2020.02.25-00.46.27:205][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005102s)
+[2020.02.25-00.46.27:206][484]LogAIModule: Creating AISystem for world FinalRoomAustin
+[2020.02.25-00.46.27:206][484]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2020.02.25-00.46.27:207][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FinalRoomAustin.FinalRoomAustin to /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin (0.006339s)
+[2020.02.25-00.46.27:241][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.02.25-00.46.27:253][484]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-00.46.27:333][484]LogInit: FAudioDevice initialized.
+[2020.02.25-00.46.27:363][484]LogLoad: Game class is 'GameModeTest_C'
+[2020.02.25-00.46.27:365][484]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FinalRoomAustin.FinalRoomAustin up for play (max tick rate 60) at 2020.02.24-19.46.27
+[2020.02.25-00.46.27:365][484]LogWorld: Bringing up level for play took: 0.001291
+[2020.02.25-00.46.27:379][484]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FinalRoomAustin 0.915
+[2020.02.25-00.46.27:380][484]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.46.44:805][527]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.46.44:805][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.46.44:840][527]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-00.46.44:840][527]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin' with GeneratedClass '/Game/Levels/FinalRoomAustin.FinalRoomAustin_C' with ClassGeneratedBy '/Game/Levels/FinalRoomAustin.FinalRoomAustin:PersistentLevel.FinalRoomAustin'
+[2020.02.25-00.46.44:874][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-00.46.44:878][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.02.25-00.46.44:934][529]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.02.25-00.46.47:124][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-02.24.13:741][286]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.25-02.24.27:907][920]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-02.25.32:027][203]LogRHI: Error: SyncInterval 0
+[2020.02.25-02.25.32:027][203]LogRHI: Error: SwapChainDesc.BufferDesc.Width 145
+[2020.02.25-02.25.32:027][203]LogRHI: Error: SwapChainDesc.BufferDesc.Height 68
+[2020.02.25-02.25.32:027][203]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.02.25-02.25.32:027][203]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.02.25-02.25.32:027][203]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.02.25-02.25.32:027][203]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.02.25-02.25.32:027][203]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.02.25-02.25.32:027][203]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.02.25-02.25.32:027][203]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.02.25-02.25.32:027][203]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.02.25-02.25.32:027][203]LogRHI: Error: SwapChainDesc.BufferCount 1
+[2020.02.25-02.25.32:027][203]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000090AB2
+[2020.02.25-02.25.32:049][203]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.02.25-02.25.32:049][203]LogRHI: Error: SwapChainDesc.SwapEffect 0
+[2020.02.25-02.25.32:049][203]LogRHI: Error: SwapChainDesc.Flags 2
+[2020.02.25-02.25.32:083][203]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:361 
+ with error E_INVALIDARG
+[2020.02.25-02.25.32:297][203]LogWindows: Windows GetLastError: The operation completed successfully. (0)
